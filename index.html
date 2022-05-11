@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        
+        <!-- Chargement des couches de style -->
+        <link rel="stylesheet"href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.14.1/css/ol.css"            
+        type="text/css">   
+        <link href="https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css" rel="stylesheet">       
+        <link rel="stylesheet" href="style.css" />
+        <link rel="stylesheet"href="https://unpkg.com/ol-layerswitcher@3.1.0/src/ol-layerswitcher.css" />
+
+        <!-- Chargement des scripts -->
+        <script src="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.14.1/build/ol.js"             
+        type="text/javascript">
+        </script>                
+        <script src="https://unpkg.com/ol-layerswitcher@3.1.0"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+        <script src="https://d3js.org/d3.v6.min.js"></script>
+        <!-- titre de l'onglet -->
+        <title>Landslide related deaths</title>
+    </head>
+    <body>
+        <!-- div qui montre les informations lors load de la page concernant l'utilisation de la carte -->
+        <div class="infoOnLoad">
+            <!-- bouton croix pour fermer le div -->
+            <a href="javascript:" id="btn" class="cross">&times;</a>
+            <h1>Map information</h1>
+            <!-- affichage en liste -->
+            <ul>
+                <li>
+                    Landslides are responsible for thousands of deaths throughout the world every year. 
+                    Most fatalities occure due to rock falls or debris falls related to the landslides.
+                    Furthermost, the most damaging landslides are induced by long periods of heavy precipitation (USGS).
+                </li>
+                <li>
+                    We therefore focus on rainfall-induced landslides.
+                </li>
+                <li>
+                    Four layers can be visualised :
+                    <ol>
+                        <li>
+                            The overall risk related to landslides
+                        </li>
+                        <li>
+                            Frequency of landslides
+                        </li>
+                        <li>
+                            Physical exposure to landslides (number of people impacted per year)
+                        </li>
+                        <li>
+                            Economical exposure to landslides (potential economical losses ($) per year)
+                        </li>
+                    </ol>
+                </li>
+                <li>
+                    Seven time intervals can be visualised (1950 to 2010). The metadata for each time interval are available here:
+                    <br>
+                    <!-- hyperliens cliquables -->
+                    <a href='http://129.194.11.165:8080/geonetwork/srv/fre/catalog.search#/metadata/0d93916c-dc5f-4029-96c3-ab051bdc3b37' target='_blank'>1950</a>,
+                    <a href='http://129.194.11.165:8080/geonetwork/srv/fre/catalog.search#/metadata/12b75734-10b2-4d86-b87e-3eb466c096ca' target='_blank'>1960</a>,
+                    <a href='http://129.194.11.165:8080/geonetwork/srv/fre/catalog.search#/metadata/30aedb3c-98ae-49bd-9d6b-2fc73736d809' target='_blank'>1970</a>,
+                    <a href='http://129.194.11.165:8080/geonetwork/srv/fre/catalog.search#/metadata/a70ca20d-d01e-4c35-8a0b-76048bc89327' target='_blank'>1980</a>,
+                    <a href='http://129.194.11.165:8080/geonetwork/srv/fre/catalog.search#/metadata/ea62847d-1bca-493d-b843-a1652cb7e7ef' target='_blank'>1990</a>,
+                    <a href='http://129.194.11.165:8080/geonetwork/srv/fre/catalog.search#/metadata/1f439a1b-65f9-42e2-8161-f20e61650691' target='_blank'>2000</a>,
+                    <a href='http://129.194.11.165:8080/geonetwork/srv/fre/catalog.search#/metadata/c26d62c0-22d0-485a-b29f-f9171d40a92b' target='_blank'>2010</a>
+                </li>
+            </ul>
+            <h1>Usage</h1>
+            <ul>
+                <li>
+                    Layers can be switched (basemaps and landslides related layers) with the top right tool
+                </li>
+                <li>
+                    The size of the symbols corresponds to the mean landslide's related deaths for a 10 year interval
+                </li>
+                <li>
+                    The slider in the middle of the screen can be used to change the year (1950 to 2010), shwowing data according the chosen year
+                </li>
+                <li>
+                    Each symbol can be clicked in order to see the landslide's related deaths evolution over the years for a given county
+                </li>
+                <li>
+                    You can view the different legends by clicking on the <img class="legend_logo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABu0lEQVRIS8WVgVHCUAyG6QaOgBMoEwgTCBvIBjKBOoFsIE4gTGCZQDaQEdig/n/vpf5N81r1jvPdvSukL/mSvCQtRmdexZntj3oBVVVdwIFr7Cn2LfYSm7IH7AP2viiKbZ+TWQCM0/BLApiNWfrxLkYJWgLEZ2eFgGScRuitrgjQwAEpPaEDoHF6g+djSsVPAGvorExXFVoA8fwJCusAEkVgxu9h+Bl7ounyAKZlmjxYCeQGsh32BrITwHcpum3y3IxTtYTMHPmuIijN8fLN5bCGRJdnMuip8c59NBFkcn4AYDIA+MT7sTvDFPMOWxFoeux8czAHSeliOeti6hYeYLnXg4zg1BcB3wHS0bWS1RSxsVor1zx6SLrd65Y+giiX7NDNwB1ExdHcnUbAGmZF6DoCcDkAiO6O5cy5NVimdRMNACLHFjYEfaNpmrRDOUlfmS7JOQ3vWI6QKeQIObu5Lg4PYDUwZN/+FgQ7lIofElVdygKZ6dCLht2c4eU6NACQZZBaV1OaG9cWiU9/FEETnXpuwqEPDmfTWCgR4PcfHHU7jYIryBgVK4qXyNFAw5ywvd3+vx99fwF/+f8FTjfhGT0O6r8AAAAASUVORK5CYII="/> on the left side of the map
+                </li>
+            </ul>
+            <br>
+            <br>
+            <!-- lien avec l'événement closeDiv pour fermer le panneau d'information lorsqu'on le clique -->
+            <button onclick="closeDiv()" id="btn" class="close">Understood !</button>
+        </div>
+
+        <!-- ajout de la carte -->
+        <div id="map" class="map">
+            <!-- div supplémentaire sur la carte pour montrer les légendes lorsqu'on le clique-->
+            <div id="legend-btn" class="legend-btn" onclick="openLegends()">
+                <span class="tooltiptext">Show legends</span>
+                <img class="legend_logo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABu0lEQVRIS8WVgVHCUAyG6QaOgBMoEwgTCBvIBjKBOoFsIE4gTGCZQDaQEdig/n/vpf5N81r1jvPdvSukL/mSvCQtRmdexZntj3oBVVVdwIFr7Cn2LfYSm7IH7AP2viiKbZ+TWQCM0/BLApiNWfrxLkYJWgLEZ2eFgGScRuitrgjQwAEpPaEDoHF6g+djSsVPAGvorExXFVoA8fwJCusAEkVgxu9h+Bl7ounyAKZlmjxYCeQGsh32BrITwHcpum3y3IxTtYTMHPmuIijN8fLN5bCGRJdnMuip8c59NBFkcn4AYDIA+MT7sTvDFPMOWxFoeux8czAHSeliOeti6hYeYLnXg4zg1BcB3wHS0bWS1RSxsVor1zx6SLrd65Y+giiX7NDNwB1ExdHcnUbAGmZF6DoCcDkAiO6O5cy5NVimdRMNACLHFjYEfaNpmrRDOUlfmS7JOQ3vWI6QKeQIObu5Lg4PYDUwZN/+FgQ7lIofElVdygKZ6dCLht2c4eU6NACQZZBaV1OaG9cWiU9/FEETnXpuwqEPDmfTWCgR4PcfHHU7jYIryBgVK4qXyNFAw5ywvd3+vx99fwF/+f8FTjfhGT0O6r8AAAAASUVORK5CYII="/>
+                <!-- <i class='bx bxs-color'></i> -->
+            </div>
+        </div>
+
+        <!-- div contenant le slider temporel ainsi que les futurs barplots -->
+        <div class="infoDiv" id="infodiv">
+
+            <!-- slider temporel -->
+            <div id="slidercontainer" class="sliderContainer">
+                <input type="range" min="1950" max="2010" value="2010" step="10" class="slider" id="myRange" orient="vertical">
+            </div>
+            <div class="dateIndex" id="dateIndex">
+                <table>
+                    <tr>
+                        <td><span class="highlight">2010</span></td>
+                    </tr>
+                    <tr>
+                        <td><span class="highlight">2000</span></td>
+                    </tr>
+                    <tr>
+                        <td><span class="highlight">1990</span></td>
+                    </tr>
+                    <tr>
+                        <td><span class="highlight">1980</span></td>
+                    </tr>
+                    <tr>
+                        <td><span class="highlight">1970</span></td>
+                    </tr>
+                    <tr>
+                        <td><span class="highlight">1960</span></td>
+                    </tr>
+                    <tr>
+                        <td><span class="highlight">1950</span></td>
+                    </tr>
+                </table>
+            </div>
+
+            <!-- div pour les barplots en d3 -->
+            <div id="container" class="svg-container">
+                <g id="barplot"></g>
+            </div>
+
+            <!-- div contenant les légendes en format PNG -->
+            <div class="legends" id="legends">
+                <div class="image-container">
+                    <img class="item" src='assets/legend_eco.png'/>
+                    <img class="item" src='assets/legend_freq.png'/>
+                    <img class="item" src='assets/legend_phyxp.png'/>
+                    <img class="item" src='assets/legend_risk.png'/>
+                </div>
+            </div>
+        </div>
+
+        </div>
+        <!-- appel du script-->
+        <script src="script.js"></script>
+    </body>
+</html>

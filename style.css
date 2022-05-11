@@ -1,0 +1,232 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+/* style div d3 */
+/* on va utiliser vh et vw dans la plupart des cas pour définir la hauteur
+et la largeur de nos objets pour que ceux-ci répoondent de manière dynamique au changement de taille
+de la fenêtre */
+.svg {
+    margin: 0px;
+    margin-top: 0px;
+    padding-top: 0px;
+    background: #2e2e2e;
+    color: rgb(206, 206, 206);
+    height: 100vh;
+    width: 43vw;
+}
+/* style du div d'information lors du chargement de la page */
+.infoOnLoad {
+    width: 50vw;
+    overflow: auto;
+    position: absolute;
+    background-color: #9b9b9b;
+    z-index: 1;
+    color: #2e2e2e;
+    left: 50vw;
+    top: 50vh;
+    margin-left: -25vw;
+    margin-top: -25vh;
+    border-radius: 30px;
+    padding: 30px;
+}
+.infoOnLoad h1, h2{
+    text-align: center;
+}
+.infoOnLoad .cross{
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+    text-decoration: none;
+    color: black;
+}
+.infoOnLoad .close{
+    border: none;
+    border-radius: 40px;
+    text-decoration: none;
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.legend-btn {
+    position: absolute;
+    left: .75em;
+    height: 20px;
+    width: 20px;
+    top: 290px;
+    border-radius: 1px;
+    background-color: #3e5c82;
+    outline: 4px solid green;
+    outline-color: rgba(255, 255, 255, 0.521);
+    z-index: 100;
+  }
+.legend_logo{
+    height: 20px;
+}
+.legend-btn:hover {
+    background-color: #344f75;
+    outline-color: rgba(255, 255, 255, 0.781);
+}
+.legend-btn .tooltiptext{
+    visibility: hidden;
+    width: 120px;
+    background-color: rgb(236, 236, 236);
+    color: black;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    top: 28px;
+    z-index: 102;
+}
+.legend-btn:hover .tooltiptext{
+    visibility: visible;
+}
+.legends {
+    position: absolute;
+    left: 100vw;
+    top: 0px;
+    background: #2e2e2e;
+    color: rgb(206, 206, 206);
+    height: 100vh;
+    width: 43vw;
+    transition: all 0.5s ease;
+}
+.legends.active{
+    left: 7vw;
+    transition: all 0.5s ease;
+}
+.image-container{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5px;
+    justify-content: center;
+}
+.item{
+    height: 40%;
+    width: 40%;
+    margin: 20px;
+}
+html, body{
+    height: 100vh;
+    width: 100vw;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    -ms-overflow-style: none;  /* Cacher scrollbar pour IE and Edge */
+    scrollbar-width: none;  /* Cacher scrollbar pour Firefox */
+}
+.map {
+    position: absolute;
+    height: 100vh;
+    width: 50vw;
+}
+.infoDiv {
+    position: relative;
+    background-color: #2e2e2e;
+    width: 50vw;
+    left: 50vw;
+    height: 100vh;
+
+}
+.sliderContainer{
+    position: static;
+    width: 40px;
+    padding: 20px;
+}
+input[type=range][orient=vertical]{
+    width: 8px;
+    height: calc(100vh - 40px);
+    -webkit-appearance: none;
+    appearance: none;
+    background: transparent;
+    cursor: pointer;
+}
+
+/** STYLE DU SLIDER POUR QU'IL SOIT LE MEME
+SUR TOUS LES NAVIGATEURS **/
+
+/***** Chrome, Safari, Opera, et Edge Chromium *****/
+input[type="range"]::-webkit-slider-runnable-track {
+    background: rgb(150, 150, 150);
+    width: 10px;
+    border-radius: 1em;
+}
+input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none; /* Override default look */
+    appearance: none;
+    border-radius: 3em;
+    margin-top: -12px; /* Centers thumb on the track */
+    background-color: rgb(61, 61, 61);
+    height: 1.5rem;
+    width: 1.5rem;    
+}
+
+/******** Firefox ********/
+  input[type="range"]::-moz-range-track {
+    background: rgb(150, 150, 150);
+    width: 10px;
+    border-radius: 1em;
+}
+input[type="range"]::-moz-range-thumb {
+    border: none; /*Removes extra border that FF applies*/
+    border-radius: 3em;
+    background-color: rgb(206, 206, 206);
+    height: 1.5rem;
+    width: 1.5rem;
+}
+
+.infoDiv .dateIndex{
+    position: absolute;
+    left: 50px;
+    top: 20px;
+    height: calc(100vh - 40px);
+}
+.dateIndex table, td, th {
+    border: 1px solid rgba(0, 0, 0, 0);
+    vertical-align: top;
+  }
+.dateIndex td {
+    height: calc((100vh - 95px)/6);
+}
+.svg-container {
+    position: absolute;
+    left: 7vw;
+    width: 43vw;
+    top: 0px;
+    height: 80vh;
+}
+.barplot {
+    position: absolute;
+    height: 100vh;
+    font-family: Arial,sans-serif !important;
+}
+.bar {
+    fill: rgba(105, 200, 255, 0.945);
+}
+.highlight{
+    color: aliceblue;
+    background-color:rgb(150, 150, 150);
+    padding:0.4em 0.4em; /* on gère la grosseur */
+    border-radius: 1em;
+}
+.map .ol-mouse-position {
+    bottom: 8px;
+    left: 8px;
+    top: auto;
+    right: auto;
+    color: whitesmoke;
+}
+.map .layer-switcher{
+    top: 8px;
+    right: 8px;
+    bottom: auto;
+    left: auto;
+}
+.map .layer-switcher.shown .panel{
+    background-color: #a1a1a1d2;
+    border-color: #a1a1a1d2;
+}

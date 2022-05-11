@@ -1,0 +1,3919 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ls_deaths_1990" id="ls_deaths_1990">
+	<SimpleField name="FIPS_CNTRY" type="string"></SimpleField>
+	<SimpleField name="GMI_CNTRY" type="string"></SimpleField>
+	<SimpleField name="ISO_2DIGIT" type="string"></SimpleField>
+	<SimpleField name="ISO_3DIGIT" type="string"></SimpleField>
+	<SimpleField name="CNTRY_NAME" type="string"></SimpleField>
+	<SimpleField name="LONG_NAME" type="string"></SimpleField>
+	<SimpleField name="SOVEREIGN" type="string"></SimpleField>
+	<SimpleField name="POP_CNTRY" type="int"></SimpleField>
+	<SimpleField name="CURR_TYPE" type="string"></SimpleField>
+	<SimpleField name="CURR_CODE" type="string"></SimpleField>
+	<SimpleField name="LANDLOCKED" type="string"></SimpleField>
+	<SimpleField name="SQKM" type="float"></SimpleField>
+	<SimpleField name="SQMI" type="float"></SimpleField>
+	<SimpleField name="COLOR_MAP" type="string"></SimpleField>
+	<SimpleField name="Entity" type="string"></SimpleField>
+	<SimpleField name="Year" type="int"></SimpleField>
+	<SimpleField name="deaths" type="float"></SimpleField>
+</Schema>
+<Folder><name>ls_deaths_1990</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">RS</SimpleData>
+		<SimpleData name="GMI_CNTRY">RUS</SimpleData>
+		<SimpleData name="ISO_2DIGIT">RU</SimpleData>
+		<SimpleData name="ISO_3DIGIT">RUS</SimpleData>
+		<SimpleData name="CNTRY_NAME">Russia</SimpleData>
+		<SimpleData name="LONG_NAME">Russia</SimpleData>
+		<SimpleData name="SOVEREIGN">Russia</SimpleData>
+		<SimpleData name="POP_CNTRY">151827600</SimpleData>
+		<SimpleData name="CURR_TYPE">Ruble</SimpleData>
+		<SimpleData name="CURR_CODE">RUR</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">16897294</SimpleData>
+		<SimpleData name="SQMI">6524043.5</SimpleData>
+		<SimpleData name="COLOR_MAP">1</SimpleData>
+		<SimpleData name="Entity">Russia</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">31.6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>96.6379904018801,61.9068409644955</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">CA</SimpleData>
+		<SimpleData name="GMI_CNTRY">CAN</SimpleData>
+		<SimpleData name="ISO_2DIGIT">CA</SimpleData>
+		<SimpleData name="ISO_3DIGIT">CAN</SimpleData>
+		<SimpleData name="CNTRY_NAME">Canada</SimpleData>
+		<SimpleData name="LONG_NAME">Canada</SimpleData>
+		<SimpleData name="SOVEREIGN">Canada</SimpleData>
+		<SimpleData name="POP_CNTRY">28402320</SimpleData>
+		<SimpleData name="CURR_TYPE">Dollar</SimpleData>
+		<SimpleData name="CURR_CODE">CAD</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">9832884</SimpleData>
+		<SimpleData name="SQMI">3796476.5</SimpleData>
+		<SimpleData name="COLOR_MAP">4</SimpleData>
+		<SimpleData name="Entity">Canada</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.3370883241475,61.3166814152258</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">NO</SimpleData>
+		<SimpleData name="GMI_CNTRY">NOR</SimpleData>
+		<SimpleData name="ISO_2DIGIT">NO</SimpleData>
+		<SimpleData name="ISO_3DIGIT">NOR</SimpleData>
+		<SimpleData name="CNTRY_NAME">Norway</SimpleData>
+		<SimpleData name="LONG_NAME">Norway</SimpleData>
+		<SimpleData name="SOVEREIGN">Norway</SimpleData>
+		<SimpleData name="POP_CNTRY">4328519</SimpleData>
+		<SimpleData name="CURR_TYPE">Norwegian Krone</SimpleData>
+		<SimpleData name="CURR_CODE">NOK</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">305865.69</SimpleData>
+		<SimpleData name="SQMI">118094.75</SimpleData>
+		<SimpleData name="COLOR_MAP">2</SimpleData>
+		<SimpleData name="Entity">Norway</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0539516839574,64.3609826221743</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">IC</SimpleData>
+		<SimpleData name="GMI_CNTRY">ISL</SimpleData>
+		<SimpleData name="ISO_2DIGIT">IS</SimpleData>
+		<SimpleData name="ISO_3DIGIT">ISL</SimpleData>
+		<SimpleData name="CNTRY_NAME">Iceland</SimpleData>
+		<SimpleData name="LONG_NAME">Iceland</SimpleData>
+		<SimpleData name="SOVEREIGN">Iceland</SimpleData>
+		<SimpleData name="POP_CNTRY">267240</SimpleData>
+		<SimpleData name="CURR_TYPE">Krona</SimpleData>
+		<SimpleData name="CURR_CODE">ISK</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">99899.67</SimpleData>
+		<SimpleData name="SQMI">38571.26</SimpleData>
+		<SimpleData name="COLOR_MAP">8</SimpleData>
+		<SimpleData name="Entity">Iceland</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">3.4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-18.5793504756711,64.9899750203709</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">FI</SimpleData>
+		<SimpleData name="GMI_CNTRY">FIN</SimpleData>
+		<SimpleData name="ISO_2DIGIT">FI</SimpleData>
+		<SimpleData name="ISO_3DIGIT">FIN</SimpleData>
+		<SimpleData name="CNTRY_NAME">Finland</SimpleData>
+		<SimpleData name="LONG_NAME">Finland</SimpleData>
+		<SimpleData name="SOVEREIGN">Finland</SimpleData>
+		<SimpleData name="POP_CNTRY">5031379</SimpleData>
+		<SimpleData name="CURR_TYPE">Euro</SimpleData>
+		<SimpleData name="CURR_CODE">EUR</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">330957.66</SimpleData>
+		<SimpleData name="SQMI">127782.77</SimpleData>
+		<SimpleData name="COLOR_MAP">7</SimpleData>
+		<SimpleData name="Entity">Finland</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>26.2893200849849,64.5200141087706</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">LG</SimpleData>
+		<SimpleData name="GMI_CNTRY">LVA</SimpleData>
+		<SimpleData name="ISO_2DIGIT">LV</SimpleData>
+		<SimpleData name="ISO_3DIGIT">LVA</SimpleData>
+		<SimpleData name="CNTRY_NAME">Latvia</SimpleData>
+		<SimpleData name="LONG_NAME">Latvia</SimpleData>
+		<SimpleData name="SOVEREIGN">Latvia</SimpleData>
+		<SimpleData name="POP_CNTRY">2690291</SimpleData>
+		<SimpleData name="CURR_TYPE">Lat</SimpleData>
+		<SimpleData name="CURR_CODE">LVL</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">64744.68</SimpleData>
+		<SimpleData name="SQMI">24997.92</SimpleData>
+		<SimpleData name="COLOR_MAP">3</SimpleData>
+		<SimpleData name="Entity">Latvia</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.923962337378,56.8549195454944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">SW</SimpleData>
+		<SimpleData name="GMI_CNTRY">SWE</SimpleData>
+		<SimpleData name="ISO_2DIGIT">SE</SimpleData>
+		<SimpleData name="ISO_3DIGIT">SWE</SimpleData>
+		<SimpleData name="CNTRY_NAME">Sweden</SimpleData>
+		<SimpleData name="LONG_NAME">Sweden</SimpleData>
+		<SimpleData name="SOVEREIGN">Sweden</SimpleData>
+		<SimpleData name="POP_CNTRY">8728217</SimpleData>
+		<SimpleData name="CURR_TYPE">Krone</SimpleData>
+		<SimpleData name="CURR_CODE">SEK</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">442245.72</SimpleData>
+		<SimpleData name="SQMI">170751.06</SimpleData>
+		<SimpleData name="COLOR_MAP">4</SimpleData>
+		<SimpleData name="Entity">Sweden</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.7346140729998,62.7897645939911</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">UK</SimpleData>
+		<SimpleData name="GMI_CNTRY">GBR</SimpleData>
+		<SimpleData name="ISO_2DIGIT">GB</SimpleData>
+		<SimpleData name="ISO_3DIGIT">GBR</SimpleData>
+		<SimpleData name="CNTRY_NAME">United Kingdom</SimpleData>
+		<SimpleData name="LONG_NAME">United Kingdom</SimpleData>
+		<SimpleData name="SOVEREIGN">United Kingdom</SimpleData>
+		<SimpleData name="POP_CNTRY">56420180</SimpleData>
+		<SimpleData name="CURR_TYPE">Pound Sterling</SimpleData>
+		<SimpleData name="CURR_CODE">GBP</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">238074.31</SimpleData>
+		<SimpleData name="SQMI">91920.48</SimpleData>
+		<SimpleData name="COLOR_MAP">5</SimpleData>
+		<SimpleData name="Entity">United Kingdom</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.8554238147896,54.1057604666281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">LH</SimpleData>
+		<SimpleData name="GMI_CNTRY">LTU</SimpleData>
+		<SimpleData name="ISO_2DIGIT">LT</SimpleData>
+		<SimpleData name="ISO_3DIGIT">LTU</SimpleData>
+		<SimpleData name="CNTRY_NAME">Lithuania</SimpleData>
+		<SimpleData name="LONG_NAME">Lithuania</SimpleData>
+		<SimpleData name="SOVEREIGN">Lithuania</SimpleData>
+		<SimpleData name="POP_CNTRY">3786560</SimpleData>
+		<SimpleData name="CURR_TYPE">Lita</SimpleData>
+		<SimpleData name="CURR_CODE">LTL</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">64438.66</SimpleData>
+		<SimpleData name="SQMI">24879.77</SimpleData>
+		<SimpleData name="COLOR_MAP">2</SimpleData>
+		<SimpleData name="Entity">Lithuania</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>23.9153426051785,55.3263957755038</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">BO</SimpleData>
+		<SimpleData name="GMI_CNTRY">BLR</SimpleData>
+		<SimpleData name="ISO_2DIGIT">BY</SimpleData>
+		<SimpleData name="ISO_3DIGIT">BLR</SimpleData>
+		<SimpleData name="CNTRY_NAME">Belarus</SimpleData>
+		<SimpleData name="LONG_NAME">Belarus</SimpleData>
+		<SimpleData name="SOVEREIGN">Belarus</SimpleData>
+		<SimpleData name="POP_CNTRY">10521400</SimpleData>
+		<SimpleData name="CURR_TYPE">Ruble</SimpleData>
+		<SimpleData name="CURR_CODE">BYR</SimpleData>
+		<SimpleData name="LANDLOCKED">Y</SimpleData>
+		<SimpleData name="SQKM">205963.55</SimpleData>
+		<SimpleData name="SQMI">79522.51</SimpleData>
+		<SimpleData name="COLOR_MAP">4</SimpleData>
+		<SimpleData name="Entity">Belarus</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.0402488201401,53.5317459959722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">KZ</SimpleData>
+		<SimpleData name="GMI_CNTRY">KAZ</SimpleData>
+		<SimpleData name="ISO_2DIGIT">KZ</SimpleData>
+		<SimpleData name="ISO_3DIGIT">KAZ</SimpleData>
+		<SimpleData name="CNTRY_NAME">Kazakhstan</SimpleData>
+		<SimpleData name="LONG_NAME">Kazakhstan</SimpleData>
+		<SimpleData name="SOVEREIGN">Kazakhstan</SimpleData>
+		<SimpleData name="POP_CNTRY">17117910</SimpleData>
+		<SimpleData name="CURR_TYPE">Tenge</SimpleData>
+		<SimpleData name="CURR_CODE">KZT</SimpleData>
+		<SimpleData name="LANDLOCKED">Y</SimpleData>
+		<SimpleData name="SQKM">2832825.5</SimpleData>
+		<SimpleData name="SQMI">1093754.13</SimpleData>
+		<SimpleData name="COLOR_MAP">8</SimpleData>
+		<SimpleData name="Entity">Kazakhstan</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.63542322723,48.0210527305698</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">EI</SimpleData>
+		<SimpleData name="GMI_CNTRY">IRL</SimpleData>
+		<SimpleData name="ISO_2DIGIT">IE</SimpleData>
+		<SimpleData name="ISO_3DIGIT">IRL</SimpleData>
+		<SimpleData name="CNTRY_NAME">Ireland</SimpleData>
+		<SimpleData name="LONG_NAME">Ireland</SimpleData>
+		<SimpleData name="SOVEREIGN">Ireland</SimpleData>
+		<SimpleData name="POP_CNTRY">5015975</SimpleData>
+		<SimpleData name="CURR_TYPE">Euro</SimpleData>
+		<SimpleData name="CURR_CODE">EUR</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">67565.41</SimpleData>
+		<SimpleData name="SQMI">26087</SimpleData>
+		<SimpleData name="COLOR_MAP">1</SimpleData>
+		<SimpleData name="Entity">Ireland</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.13008155478028,53.1782849461105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">DA</SimpleData>
+		<SimpleData name="GMI_CNTRY">DNK</SimpleData>
+		<SimpleData name="ISO_2DIGIT">DK</SimpleData>
+		<SimpleData name="ISO_3DIGIT">DNK</SimpleData>
+		<SimpleData name="CNTRY_NAME">Denmark</SimpleData>
+		<SimpleData name="LONG_NAME">Denmark</SimpleData>
+		<SimpleData name="SOVEREIGN">Denmark</SimpleData>
+		<SimpleData name="POP_CNTRY">4667750</SimpleData>
+		<SimpleData name="CURR_TYPE">Danish Krone</SimpleData>
+		<SimpleData name="CURR_CODE">DKK</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">41103.48</SimpleData>
+		<SimpleData name="SQMI">15870.05</SimpleData>
+		<SimpleData name="COLOR_MAP">6</SimpleData>
+		<SimpleData name="Entity">Denmark</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>10.0417119069113,55.9647525329802</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">PL</SimpleData>
+		<SimpleData name="GMI_CNTRY">POL</SimpleData>
+		<SimpleData name="ISO_2DIGIT">PL</SimpleData>
+		<SimpleData name="ISO_3DIGIT">POL</SimpleData>
+		<SimpleData name="CNTRY_NAME">Poland</SimpleData>
+		<SimpleData name="LONG_NAME">Poland</SimpleData>
+		<SimpleData name="SOVEREIGN">Poland</SimpleData>
+		<SimpleData name="POP_CNTRY">37911870</SimpleData>
+		<SimpleData name="CURR_TYPE">Zloty</SimpleData>
+		<SimpleData name="CURR_CODE">PLZ</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">312136.16</SimpleData>
+		<SimpleData name="SQMI">120515.79</SimpleData>
+		<SimpleData name="COLOR_MAP">5</SimpleData>
+		<SimpleData name="Entity">Poland</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.4171297607524,52.1221804971241</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">GM</SimpleData>
+		<SimpleData name="GMI_CNTRY">DEU</SimpleData>
+		<SimpleData name="ISO_2DIGIT">DE</SimpleData>
+		<SimpleData name="ISO_3DIGIT">DEU</SimpleData>
+		<SimpleData name="CNTRY_NAME">Germany</SimpleData>
+		<SimpleData name="LONG_NAME">Germany</SimpleData>
+		<SimpleData name="SOVEREIGN">Germany</SimpleData>
+		<SimpleData name="POP_CNTRY">81436300</SimpleData>
+		<SimpleData name="CURR_TYPE">Euro</SimpleData>
+		<SimpleData name="CURR_CODE">EUR</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">355245.97</SimpleData>
+		<SimpleData name="SQMI">137160.48</SimpleData>
+		<SimpleData name="COLOR_MAP">8</SimpleData>
+		<SimpleData name="Entity">Germany</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0.5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>10.4003285267875,51.0974737561925</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">NL</SimpleData>
+		<SimpleData name="GMI_CNTRY">NLD</SimpleData>
+		<SimpleData name="ISO_2DIGIT">NL</SimpleData>
+		<SimpleData name="ISO_3DIGIT">NLD</SimpleData>
+		<SimpleData name="CNTRY_NAME">Netherlands</SimpleData>
+		<SimpleData name="LONG_NAME">Netherlands</SimpleData>
+		<SimpleData name="SOVEREIGN">Netherlands</SimpleData>
+		<SimpleData name="POP_CNTRY">15447470</SimpleData>
+		<SimpleData name="CURR_TYPE">Euro</SimpleData>
+		<SimpleData name="CURR_CODE">EUR</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">34690.89</SimpleData>
+		<SimpleData name="SQMI">13394.15</SimpleData>
+		<SimpleData name="COLOR_MAP">7</SimpleData>
+		<SimpleData name="Entity">Netherlands</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>5.61883292878937,52.2375663105916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">UP</SimpleData>
+		<SimpleData name="GMI_CNTRY">UKR</SimpleData>
+		<SimpleData name="ISO_2DIGIT">UA</SimpleData>
+		<SimpleData name="ISO_3DIGIT">UKR</SimpleData>
+		<SimpleData name="CNTRY_NAME">Ukraine</SimpleData>
+		<SimpleData name="LONG_NAME">Ukraine</SimpleData>
+		<SimpleData name="SOVEREIGN">Ukraine</SimpleData>
+		<SimpleData name="POP_CNTRY">53164920</SimpleData>
+		<SimpleData name="CURR_TYPE">Hryvna</SimpleData>
+		<SimpleData name="CURR_CODE">UKH</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">593787.69</SimpleData>
+		<SimpleData name="SQMI">229261.44</SimpleData>
+		<SimpleData name="COLOR_MAP">7</SimpleData>
+		<SimpleData name="Entity">Ukraine</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.4078659767234,49.0234874065279</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">MG</SimpleData>
+		<SimpleData name="GMI_CNTRY">MNG</SimpleData>
+		<SimpleData name="ISO_2DIGIT">MN</SimpleData>
+		<SimpleData name="ISO_3DIGIT">MNG</SimpleData>
+		<SimpleData name="CNTRY_NAME">Mongolia</SimpleData>
+		<SimpleData name="LONG_NAME">Mongolia</SimpleData>
+		<SimpleData name="SOVEREIGN">Mongolia</SimpleData>
+		<SimpleData name="POP_CNTRY">2228222</SimpleData>
+		<SimpleData name="CURR_TYPE">Tughrik</SimpleData>
+		<SimpleData name="CURR_CODE">MNT</SimpleData>
+		<SimpleData name="LANDLOCKED">Y</SimpleData>
+		<SimpleData name="SQKM">1557318.38</SimpleData>
+		<SimpleData name="SQMI">601280.5</SimpleData>
+		<SimpleData name="COLOR_MAP">7</SimpleData>
+		<SimpleData name="Entity">Mongolia</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.075260454048,46.8279818924065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">BE</SimpleData>
+		<SimpleData name="GMI_CNTRY">BEL</SimpleData>
+		<SimpleData name="ISO_2DIGIT">BE</SimpleData>
+		<SimpleData name="ISO_3DIGIT">BEL</SimpleData>
+		<SimpleData name="CNTRY_NAME">Belgium</SimpleData>
+		<SimpleData name="LONG_NAME">Belgium</SimpleData>
+		<SimpleData name="SOVEREIGN">Belgium</SimpleData>
+		<SimpleData name="POP_CNTRY">10032460</SimpleData>
+		<SimpleData name="CURR_TYPE">Euro</SimpleData>
+		<SimpleData name="CURR_CODE">EUR</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">30711.36</SimpleData>
+		<SimpleData name="SQMI">11857.66</SimpleData>
+		<SimpleData name="COLOR_MAP">4</SimpleData>
+		<SimpleData name="Entity">Belgium</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>4.69006448089409,50.6257252836874</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">FR</SimpleData>
+		<SimpleData name="GMI_CNTRY">FRA</SimpleData>
+		<SimpleData name="ISO_2DIGIT">FR</SimpleData>
+		<SimpleData name="ISO_3DIGIT">FRA</SimpleData>
+		<SimpleData name="CNTRY_NAME">France</SimpleData>
+		<SimpleData name="LONG_NAME">France</SimpleData>
+		<SimpleData name="SOVEREIGN">France</SimpleData>
+		<SimpleData name="POP_CNTRY">57757060</SimpleData>
+		<SimpleData name="CURR_TYPE">Euro</SimpleData>
+		<SimpleData name="CURR_CODE">EUR</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">546970.19</SimpleData>
+		<SimpleData name="SQMI">211185.19</SimpleData>
+		<SimpleData name="COLOR_MAP">6</SimpleData>
+		<SimpleData name="Entity">France</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">3.4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.55486722743896,46.5584823489588</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">LU</SimpleData>
+		<SimpleData name="GMI_CNTRY">LUX</SimpleData>
+		<SimpleData name="ISO_2DIGIT">LU</SimpleData>
+		<SimpleData name="ISO_3DIGIT">LUX</SimpleData>
+		<SimpleData name="CNTRY_NAME">Luxembourg</SimpleData>
+		<SimpleData name="LONG_NAME">Luxembourg</SimpleData>
+		<SimpleData name="SOVEREIGN">Luxembourg</SimpleData>
+		<SimpleData name="POP_CNTRY">387064</SimpleData>
+		<SimpleData name="CURR_TYPE">Euro</SimpleData>
+		<SimpleData name="CURR_CODE">EUR</SimpleData>
+		<SimpleData name="LANDLOCKED">Y</SimpleData>
+		<SimpleData name="SQKM">2578.1</SimpleData>
+		<SimpleData name="SQMI">995.4</SimpleData>
+		<SimpleData name="COLOR_MAP">1</SimpleData>
+		<SimpleData name="Entity">Luxembourg</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.11020530238974,49.7798197227827</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">LO</SimpleData>
+		<SimpleData name="GMI_CNTRY">SVK</SimpleData>
+		<SimpleData name="ISO_2DIGIT">SK</SimpleData>
+		<SimpleData name="ISO_3DIGIT">SVK</SimpleData>
+		<SimpleData name="CNTRY_NAME">Slovakia</SimpleData>
+		<SimpleData name="LONG_NAME">Slovakia</SimpleData>
+		<SimpleData name="SOVEREIGN">Slovakia</SimpleData>
+		<SimpleData name="POP_CNTRY">5374362</SimpleData>
+		<SimpleData name="CURR_TYPE">Koruna</SimpleData>
+		<SimpleData name="CURR_CODE">SKK</SimpleData>
+		<SimpleData name="LANDLOCKED">Y</SimpleData>
+		<SimpleData name="SQKM">48560.4</SimpleData>
+		<SimpleData name="SQMI">18749.17</SimpleData>
+		<SimpleData name="COLOR_MAP">6</SimpleData>
+		<SimpleData name="Entity">Slovakia</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.4715513821139,48.70065794576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">AU</SimpleData>
+		<SimpleData name="GMI_CNTRY">AUT</SimpleData>
+		<SimpleData name="ISO_2DIGIT">AT</SimpleData>
+		<SimpleData name="ISO_3DIGIT">AUT</SimpleData>
+		<SimpleData name="CNTRY_NAME">Austria</SimpleData>
+		<SimpleData name="LONG_NAME">Austria</SimpleData>
+		<SimpleData name="SOVEREIGN">Austria</SimpleData>
+		<SimpleData name="POP_CNTRY">7755406</SimpleData>
+		<SimpleData name="CURR_TYPE">Euro</SimpleData>
+		<SimpleData name="CURR_CODE">EUR</SimpleData>
+		<SimpleData name="LANDLOCKED">Y</SimpleData>
+		<SimpleData name="SQKM">82868.58</SimpleData>
+		<SimpleData name="SQMI">31995.56</SimpleData>
+		<SimpleData name="COLOR_MAP">1</SimpleData>
+		<SimpleData name="Entity">Austria</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.1398127174192,47.5993446454593</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">HU</SimpleData>
+		<SimpleData name="GMI_CNTRY">HUN</SimpleData>
+		<SimpleData name="ISO_2DIGIT">HU</SimpleData>
+		<SimpleData name="ISO_3DIGIT">HUN</SimpleData>
+		<SimpleData name="CNTRY_NAME">Hungary</SimpleData>
+		<SimpleData name="LONG_NAME">Hungary</SimpleData>
+		<SimpleData name="SOVEREIGN">Hungary</SimpleData>
+		<SimpleData name="POP_CNTRY">10310410</SimpleData>
+		<SimpleData name="CURR_TYPE">Forint</SimpleData>
+		<SimpleData name="CURR_CODE">HUF</SimpleData>
+		<SimpleData name="LANDLOCKED">Y</SimpleData>
+		<SimpleData name="SQKM">92174.04</SimpleData>
+		<SimpleData name="SQMI">35588.4</SimpleData>
+		<SimpleData name="COLOR_MAP">4</SimpleData>
+		<SimpleData name="Entity">Hungary</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.4255653678934,47.1677438395918</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">MD</SimpleData>
+		<SimpleData name="GMI_CNTRY">MDA</SimpleData>
+		<SimpleData name="ISO_2DIGIT">MD</SimpleData>
+		<SimpleData name="ISO_3DIGIT">MDA</SimpleData>
+		<SimpleData name="CNTRY_NAME">Moldova</SimpleData>
+		<SimpleData name="LONG_NAME">Moldova</SimpleData>
+		<SimpleData name="SOVEREIGN">Moldova</SimpleData>
+		<SimpleData name="POP_CNTRY">4473570</SimpleData>
+		<SimpleData name="CURR_TYPE">Leu</SimpleData>
+		<SimpleData name="CURR_CODE">MDL</SimpleData>
+		<SimpleData name="LANDLOCKED">Y</SimpleData>
+		<SimpleData name="SQKM">33548.09</SimpleData>
+		<SimpleData name="SQMI">12952.92</SimpleData>
+		<SimpleData name="COLOR_MAP">3</SimpleData>
+		<SimpleData name="Entity">Moldova</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.4698937594317,47.1955329487407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">US</SimpleData>
+		<SimpleData name="GMI_CNTRY">USA</SimpleData>
+		<SimpleData name="ISO_2DIGIT">US</SimpleData>
+		<SimpleData name="ISO_3DIGIT">USA</SimpleData>
+		<SimpleData name="CNTRY_NAME">United States</SimpleData>
+		<SimpleData name="LONG_NAME">United States</SimpleData>
+		<SimpleData name="SOVEREIGN">United States</SimpleData>
+		<SimpleData name="POP_CNTRY">258833000</SimpleData>
+		<SimpleData name="CURR_TYPE">US Dollar</SimpleData>
+		<SimpleData name="CURR_CODE">USD</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">9426295</SimpleData>
+		<SimpleData name="SQMI">3639492.5</SimpleData>
+		<SimpleData name="COLOR_MAP">5</SimpleData>
+		<SimpleData name="Entity">United States</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-112.448764784438,45.6828694830936</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">SZ</SimpleData>
+		<SimpleData name="GMI_CNTRY">CHE</SimpleData>
+		<SimpleData name="ISO_2DIGIT">CH</SimpleData>
+		<SimpleData name="ISO_3DIGIT">CHE</SimpleData>
+		<SimpleData name="CNTRY_NAME">Switzerland</SimpleData>
+		<SimpleData name="LONG_NAME">Switzerland</SimpleData>
+		<SimpleData name="SOVEREIGN">Switzerland</SimpleData>
+		<SimpleData name="POP_CNTRY">6713839</SimpleData>
+		<SimpleData name="CURR_TYPE">Franc</SimpleData>
+		<SimpleData name="CURR_CODE">CHF</SimpleData>
+		<SimpleData name="LANDLOCKED">Y</SimpleData>
+		<SimpleData name="SQKM">41853.7</SimpleData>
+		<SimpleData name="SQMI">16159.71</SimpleData>
+		<SimpleData name="COLOR_MAP">7</SimpleData>
+		<SimpleData name="Entity">Switzerland</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.23016988220949,46.7985646316902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">SI</SimpleData>
+		<SimpleData name="GMI_CNTRY">SVN</SimpleData>
+		<SimpleData name="ISO_2DIGIT">SI</SimpleData>
+		<SimpleData name="ISO_3DIGIT">SVN</SimpleData>
+		<SimpleData name="CNTRY_NAME">Slovenia</SimpleData>
+		<SimpleData name="LONG_NAME">Slovenia</SimpleData>
+		<SimpleData name="SOVEREIGN">Slovenia</SimpleData>
+		<SimpleData name="POP_CNTRY">1951443</SimpleData>
+		<SimpleData name="CURR_TYPE">Tolar</SimpleData>
+		<SimpleData name="CURR_CODE">SLT</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">20625.4</SimpleData>
+		<SimpleData name="SQMI">7963.47</SimpleData>
+		<SimpleData name="COLOR_MAP">2</SimpleData>
+		<SimpleData name="Entity">Slovenia</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.850270469505,46.1480425246952</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">UZ</SimpleData>
+		<SimpleData name="GMI_CNTRY">UZB</SimpleData>
+		<SimpleData name="ISO_2DIGIT">UZ</SimpleData>
+		<SimpleData name="ISO_3DIGIT">UZB</SimpleData>
+		<SimpleData name="CNTRY_NAME">Uzbekistan</SimpleData>
+		<SimpleData name="LONG_NAME">Uzbekistan</SimpleData>
+		<SimpleData name="SOVEREIGN">Uzbekistan</SimpleData>
+		<SimpleData name="POP_CNTRY">20841790</SimpleData>
+		<SimpleData name="CURR_TYPE">Som</SimpleData>
+		<SimpleData name="CURR_CODE">UZS</SimpleData>
+		<SimpleData name="LANDLOCKED">Y</SimpleData>
+		<SimpleData name="SQKM">446632.97</SimpleData>
+		<SimpleData name="SQMI">172445</SimpleData>
+		<SimpleData name="COLOR_MAP">5</SimpleData>
+		<SimpleData name="Entity">Uzbekistan</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">2.4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>63.1784737464553,41.7466578281176</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">BU</SimpleData>
+		<SimpleData name="GMI_CNTRY">BGR</SimpleData>
+		<SimpleData name="ISO_2DIGIT">BG</SimpleData>
+		<SimpleData name="ISO_3DIGIT">BGR</SimpleData>
+		<SimpleData name="CNTRY_NAME">Bulgaria</SimpleData>
+		<SimpleData name="LONG_NAME">Bulgaria</SimpleData>
+		<SimpleData name="SOVEREIGN">Bulgaria</SimpleData>
+		<SimpleData name="POP_CNTRY">8943258</SimpleData>
+		<SimpleData name="CURR_TYPE">Lev</SimpleData>
+		<SimpleData name="CURR_CODE">BGL</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">110522.95</SimpleData>
+		<SimpleData name="SQMI">42672.93</SimpleData>
+		<SimpleData name="COLOR_MAP">8</SimpleData>
+		<SimpleData name="Entity">Bulgaria</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>25.2597699355607,42.7575814454904</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">SP</SimpleData>
+		<SimpleData name="GMI_CNTRY">ESP</SimpleData>
+		<SimpleData name="ISO_2DIGIT">ES</SimpleData>
+		<SimpleData name="ISO_3DIGIT">ESP</SimpleData>
+		<SimpleData name="CNTRY_NAME">Spain</SimpleData>
+		<SimpleData name="LONG_NAME">Spain</SimpleData>
+		<SimpleData name="SOVEREIGN">Spain</SimpleData>
+		<SimpleData name="POP_CNTRY">39267780</SimpleData>
+		<SimpleData name="CURR_TYPE">Euro</SimpleData>
+		<SimpleData name="CURR_CODE">EUR</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">503250.28</SimpleData>
+		<SimpleData name="SQMI">194304.94</SimpleData>
+		<SimpleData name="COLOR_MAP">7</SimpleData>
+		<SimpleData name="Entity">Spain</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">8.4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.62638541634178,40.2616016535413</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">GG</SimpleData>
+		<SimpleData name="GMI_CNTRY">GEO</SimpleData>
+		<SimpleData name="ISO_2DIGIT">GE</SimpleData>
+		<SimpleData name="ISO_3DIGIT">GEO</SimpleData>
+		<SimpleData name="CNTRY_NAME">Georgia</SimpleData>
+		<SimpleData name="LONG_NAME">Georgia</SimpleData>
+		<SimpleData name="SOVEREIGN">Georgia</SimpleData>
+		<SimpleData name="POP_CNTRY">5595552</SimpleData>
+		<SimpleData name="CURR_TYPE">Lari</SimpleData>
+		<SimpleData name="CURR_CODE">GEL</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">69676.67</SimpleData>
+		<SimpleData name="SQMI">26902.16</SimpleData>
+		<SimpleData name="COLOR_MAP">5</SimpleData>
+		<SimpleData name="Entity">Georgia</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>43.5298798678848,42.1751305576144</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">HR</SimpleData>
+		<SimpleData name="GMI_CNTRY">HRV</SimpleData>
+		<SimpleData name="ISO_2DIGIT">HR</SimpleData>
+		<SimpleData name="ISO_3DIGIT">HRV</SimpleData>
+		<SimpleData name="CNTRY_NAME">Croatia</SimpleData>
+		<SimpleData name="LONG_NAME">Croatia</SimpleData>
+		<SimpleData name="SOVEREIGN">Croatia</SimpleData>
+		<SimpleData name="POP_CNTRY">5004112</SimpleData>
+		<SimpleData name="CURR_TYPE">Kuna</SimpleData>
+		<SimpleData name="CURR_CODE">HRK</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">53541.31</SimpleData>
+		<SimpleData name="SQMI">20672.3</SimpleData>
+		<SimpleData name="COLOR_MAP">3</SimpleData>
+		<SimpleData name="Entity">Croatia</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.4685526444002,45.0936601176979</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">KG</SimpleData>
+		<SimpleData name="GMI_CNTRY">KGZ</SimpleData>
+		<SimpleData name="ISO_2DIGIT">KG</SimpleData>
+		<SimpleData name="ISO_3DIGIT">KGZ</SimpleData>
+		<SimpleData name="CNTRY_NAME">Kyrgyzstan</SimpleData>
+		<SimpleData name="LONG_NAME">Kyrgyzstan</SimpleData>
+		<SimpleData name="SOVEREIGN">Kyrgyzstan</SimpleData>
+		<SimpleData name="POP_CNTRY">4478697</SimpleData>
+		<SimpleData name="CURR_TYPE">Som</SimpleData>
+		<SimpleData name="CURR_CODE">KGS</SimpleData>
+		<SimpleData name="LANDLOCKED">Y</SimpleData>
+		<SimpleData name="SQKM">200634.06</SimpleData>
+		<SimpleData name="SQMI">77464.83</SimpleData>
+		<SimpleData name="COLOR_MAP">7</SimpleData>
+		<SimpleData name="Entity">Kyrgyzstan</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">16.2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.5919879580037,41.4763190683974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">TX</SimpleData>
+		<SimpleData name="GMI_CNTRY">TKM</SimpleData>
+		<SimpleData name="ISO_2DIGIT">TM</SimpleData>
+		<SimpleData name="ISO_3DIGIT">TKM</SimpleData>
+		<SimpleData name="CNTRY_NAME">Turkmenistan</SimpleData>
+		<SimpleData name="LONG_NAME">Turkmenistan</SimpleData>
+		<SimpleData name="SOVEREIGN">Turkmenistan</SimpleData>
+		<SimpleData name="POP_CNTRY">3714642</SimpleData>
+		<SimpleData name="CURR_TYPE">Manat</SimpleData>
+		<SimpleData name="CURR_CODE">TMM</SimpleData>
+		<SimpleData name="LANDLOCKED">Y</SimpleData>
+		<SimpleData name="SQKM">552479.13</SimpleData>
+		<SimpleData name="SQMI">213312.19</SimpleData>
+		<SimpleData name="COLOR_MAP">1</SimpleData>
+		<SimpleData name="Entity">Turkmenistan</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>58.3714106076938,39.2306917437169</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">TU</SimpleData>
+		<SimpleData name="GMI_CNTRY">TUR</SimpleData>
+		<SimpleData name="ISO_2DIGIT">TR</SimpleData>
+		<SimpleData name="ISO_3DIGIT">TUR</SimpleData>
+		<SimpleData name="CNTRY_NAME">Turkey</SimpleData>
+		<SimpleData name="LONG_NAME">Turkey</SimpleData>
+		<SimpleData name="SOVEREIGN">Turkey</SimpleData>
+		<SimpleData name="POP_CNTRY">61300930</SimpleData>
+		<SimpleData name="CURR_TYPE">Lira</SimpleData>
+		<SimpleData name="CURR_CODE">TRL</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">778601.81</SimpleData>
+		<SimpleData name="SQMI">300618.16</SimpleData>
+		<SimpleData name="COLOR_MAP">2</SimpleData>
+		<SimpleData name="Entity">Turkey</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">20.9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.1873509497618,39.068415492755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">TI</SimpleData>
+		<SimpleData name="GMI_CNTRY">TJK</SimpleData>
+		<SimpleData name="ISO_2DIGIT">TJ</SimpleData>
+		<SimpleData name="ISO_3DIGIT">TJK</SimpleData>
+		<SimpleData name="CNTRY_NAME">Tajikistan</SimpleData>
+		<SimpleData name="LONG_NAME">Tajikistan</SimpleData>
+		<SimpleData name="SOVEREIGN">Tajikistan</SimpleData>
+		<SimpleData name="POP_CNTRY">5382232</SimpleData>
+		<SimpleData name="CURR_TYPE">Ruble</SimpleData>
+		<SimpleData name="CURR_CODE">TUR</SimpleData>
+		<SimpleData name="LANDLOCKED">Y</SimpleData>
+		<SimpleData name="SQKM">143923.55</SimpleData>
+		<SimpleData name="SQMI">55568.86</SimpleData>
+		<SimpleData name="COLOR_MAP">6</SimpleData>
+		<SimpleData name="Entity">Tajikistan</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">29.9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.0558047261504,38.5242038124691</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">AJ</SimpleData>
+		<SimpleData name="GMI_CNTRY">AZE</SimpleData>
+		<SimpleData name="ISO_2DIGIT">AZ</SimpleData>
+		<SimpleData name="ISO_3DIGIT">AZE</SimpleData>
+		<SimpleData name="CNTRY_NAME">Azerbaijan</SimpleData>
+		<SimpleData name="LONG_NAME">Azerbaijan</SimpleData>
+		<SimpleData name="SOVEREIGN">Azerbaijan</SimpleData>
+		<SimpleData name="POP_CNTRY">5487866</SimpleData>
+		<SimpleData name="CURR_TYPE">Manat</SimpleData>
+		<SimpleData name="CURR_CODE">AZM</SimpleData>
+		<SimpleData name="LANDLOCKED">Y</SimpleData>
+		<SimpleData name="SQKM">164056.11</SimpleData>
+		<SimpleData name="SQMI">63342.06</SimpleData>
+		<SimpleData name="COLOR_MAP">4</SimpleData>
+		<SimpleData name="Entity">Azerbaijan</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>48.807067634048,40.2792395032201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">AM</SimpleData>
+		<SimpleData name="GMI_CNTRY">ARM</SimpleData>
+		<SimpleData name="ISO_2DIGIT">AM</SimpleData>
+		<SimpleData name="ISO_3DIGIT">ARM</SimpleData>
+		<SimpleData name="CNTRY_NAME">Armenia</SimpleData>
+		<SimpleData name="LONG_NAME">Armenia</SimpleData>
+		<SimpleData name="SOVEREIGN">Armenia</SimpleData>
+		<SimpleData name="POP_CNTRY">3377228</SimpleData>
+		<SimpleData name="CURR_TYPE">Dram</SimpleData>
+		<SimpleData name="CURR_CODE">AMD</SimpleData>
+		<SimpleData name="LANDLOCKED">Y</SimpleData>
+		<SimpleData name="SQKM">30178.02</SimpleData>
+		<SimpleData name="SQMI">11651.73</SimpleData>
+		<SimpleData name="COLOR_MAP">7</SimpleData>
+		<SimpleData name="Entity">Armenia</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>44.946778749895,40.2967156655247</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">GR</SimpleData>
+		<SimpleData name="GMI_CNTRY">GRC</SimpleData>
+		<SimpleData name="ISO_2DIGIT">GR</SimpleData>
+		<SimpleData name="ISO_3DIGIT">GRC</SimpleData>
+		<SimpleData name="CNTRY_NAME">Greece</SimpleData>
+		<SimpleData name="LONG_NAME">Greece</SimpleData>
+		<SimpleData name="SOVEREIGN">Greece</SimpleData>
+		<SimpleData name="POP_CNTRY">10307460</SimpleData>
+		<SimpleData name="CURR_TYPE">Euro</SimpleData>
+		<SimpleData name="CURR_CODE">EUR</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">125514.83</SimpleData>
+		<SimpleData name="SQMI">48461.27</SimpleData>
+		<SimpleData name="COLOR_MAP">5</SimpleData>
+		<SimpleData name="Entity">Greece</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>22.8866052189968,39.1184716884297</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">AF</SimpleData>
+		<SimpleData name="GMI_CNTRY">AFG</SimpleData>
+		<SimpleData name="ISO_2DIGIT">AF</SimpleData>
+		<SimpleData name="ISO_3DIGIT">AFG</SimpleData>
+		<SimpleData name="CNTRY_NAME">Afghanistan</SimpleData>
+		<SimpleData name="LONG_NAME">Afghanistan</SimpleData>
+		<SimpleData name="SOVEREIGN">Afghanistan</SimpleData>
+		<SimpleData name="POP_CNTRY">17250390</SimpleData>
+		<SimpleData name="CURR_TYPE">Afghani</SimpleData>
+		<SimpleData name="CURR_CODE">AFA</SimpleData>
+		<SimpleData name="LANDLOCKED">Y</SimpleData>
+		<SimpleData name="SQKM">641358.44</SimpleData>
+		<SimpleData name="SQMI">247628.48</SimpleData>
+		<SimpleData name="COLOR_MAP">3</SimpleData>
+		<SimpleData name="Entity">Afghanistan</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">73.9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.0067424087338,33.8351888177074</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">IZ</SimpleData>
+		<SimpleData name="GMI_CNTRY">IRQ</SimpleData>
+		<SimpleData name="ISO_2DIGIT">IQ</SimpleData>
+		<SimpleData name="ISO_3DIGIT">IRQ</SimpleData>
+		<SimpleData name="CNTRY_NAME">Iraq</SimpleData>
+		<SimpleData name="LONG_NAME">Iraq</SimpleData>
+		<SimpleData name="SOVEREIGN">Iraq</SimpleData>
+		<SimpleData name="POP_CNTRY">20941720</SimpleData>
+		<SimpleData name="CURR_TYPE">Dinar</SimpleData>
+		<SimpleData name="CURR_CODE">IQD</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">434753.59</SimpleData>
+		<SimpleData name="SQMI">167858.36</SimpleData>
+		<SimpleData name="COLOR_MAP">1</SimpleData>
+		<SimpleData name="Entity">Iraq</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>43.7687040885344,33.0455455152048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">TS</SimpleData>
+		<SimpleData name="GMI_CNTRY">TUN</SimpleData>
+		<SimpleData name="ISO_2DIGIT">TN</SimpleData>
+		<SimpleData name="ISO_3DIGIT">TUN</SimpleData>
+		<SimpleData name="CNTRY_NAME">Tunisia</SimpleData>
+		<SimpleData name="LONG_NAME">Tunisia</SimpleData>
+		<SimpleData name="SOVEREIGN">Tunisia</SimpleData>
+		<SimpleData name="POP_CNTRY">8620181</SimpleData>
+		<SimpleData name="CURR_TYPE">Dinar</SimpleData>
+		<SimpleData name="CURR_CODE">TND</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">156669.36</SimpleData>
+		<SimpleData name="SQMI">60490.05</SimpleData>
+		<SimpleData name="COLOR_MAP">1</SimpleData>
+		<SimpleData name="Entity">Tunisia</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.56726684617345,34.1034932453641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">AG</SimpleData>
+		<SimpleData name="GMI_CNTRY">DZA</SimpleData>
+		<SimpleData name="ISO_2DIGIT">DZ</SimpleData>
+		<SimpleData name="ISO_3DIGIT">DZA</SimpleData>
+		<SimpleData name="CNTRY_NAME">Algeria</SimpleData>
+		<SimpleData name="LONG_NAME">Algeria</SimpleData>
+		<SimpleData name="SOVEREIGN">Algeria</SimpleData>
+		<SimpleData name="POP_CNTRY">27459230</SimpleData>
+		<SimpleData name="CURR_TYPE">Dinar</SimpleData>
+		<SimpleData name="CURR_CODE">DZD</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">2323510.25</SimpleData>
+		<SimpleData name="SQMI">897107.19</SimpleData>
+		<SimpleData name="COLOR_MAP">3</SimpleData>
+		<SimpleData name="Entity">Algeria</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">1.5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.62661522387154,28.1618010014867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">PK</SimpleData>
+		<SimpleData name="GMI_CNTRY">PAK</SimpleData>
+		<SimpleData name="ISO_2DIGIT">PK</SimpleData>
+		<SimpleData name="ISO_3DIGIT">PAK</SimpleData>
+		<SimpleData name="CNTRY_NAME">Pakistan</SimpleData>
+		<SimpleData name="LONG_NAME">Pakistan</SimpleData>
+		<SimpleData name="SOVEREIGN">Pakistan</SimpleData>
+		<SimpleData name="POP_CNTRY">126693000</SimpleData>
+		<SimpleData name="CURR_TYPE">Rupee</SimpleData>
+		<SimpleData name="CURR_CODE">PKR</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">880202.69</SimpleData>
+		<SimpleData name="SQMI">339846.25</SimpleData>
+		<SimpleData name="COLOR_MAP">4</SimpleData>
+		<SimpleData name="Entity">Pakistan</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">19.5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.3865754730633,29.9628452122306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">MO</SimpleData>
+		<SimpleData name="GMI_CNTRY">MAR</SimpleData>
+		<SimpleData name="ISO_2DIGIT">MA</SimpleData>
+		<SimpleData name="ISO_3DIGIT">MAR</SimpleData>
+		<SimpleData name="CNTRY_NAME">Morocco</SimpleData>
+		<SimpleData name="LONG_NAME">Morocco</SimpleData>
+		<SimpleData name="SOVEREIGN">Morocco</SimpleData>
+		<SimpleData name="POP_CNTRY">27767920</SimpleData>
+		<SimpleData name="CURR_TYPE">Dirham</SimpleData>
+		<SimpleData name="CURR_CODE">MAD</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">406452.22</SimpleData>
+		<SimpleData name="SQMI">156931.19</SimpleData>
+		<SimpleData name="COLOR_MAP">5</SimpleData>
+		<SimpleData name="Entity">Morocco</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.32363859015805,31.8964085662738</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">CY</SimpleData>
+		<SimpleData name="GMI_CNTRY">CYP</SimpleData>
+		<SimpleData name="ISO_2DIGIT">CY</SimpleData>
+		<SimpleData name="ISO_3DIGIT">CYP</SimpleData>
+		<SimpleData name="CNTRY_NAME">Cyprus</SimpleData>
+		<SimpleData name="LONG_NAME">Cyprus</SimpleData>
+		<SimpleData name="SOVEREIGN">Cyprus</SimpleData>
+		<SimpleData name="POP_CNTRY">739027</SimpleData>
+		<SimpleData name="CURR_TYPE">Pound</SimpleData>
+		<SimpleData name="CURR_CODE">CYP</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">9894.22</SimpleData>
+		<SimpleData name="SQMI">3820.16</SimpleData>
+		<SimpleData name="COLOR_MAP">7</SimpleData>
+		<SimpleData name="Entity">Cyprus</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>33.2577472432324,35.0799662252762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">LE</SimpleData>
+		<SimpleData name="GMI_CNTRY">LBN</SimpleData>
+		<SimpleData name="ISO_2DIGIT">LB</SimpleData>
+		<SimpleData name="ISO_3DIGIT">LBN</SimpleData>
+		<SimpleData name="CNTRY_NAME">Lebanon</SimpleData>
+		<SimpleData name="LONG_NAME">Lebanon</SimpleData>
+		<SimpleData name="SOVEREIGN">Lebanon</SimpleData>
+		<SimpleData name="POP_CNTRY">2942959</SimpleData>
+		<SimpleData name="CURR_TYPE">Pound</SimpleData>
+		<SimpleData name="CURR_CODE">LBP</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">10807.67</SimpleData>
+		<SimpleData name="SQMI">4172.84</SimpleData>
+		<SimpleData name="COLOR_MAP">2</SimpleData>
+		<SimpleData name="Entity">Lebanon</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.856358992394,33.9142452959766</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">JA</SimpleData>
+		<SimpleData name="GMI_CNTRY">JPN</SimpleData>
+		<SimpleData name="ISO_2DIGIT">JP</SimpleData>
+		<SimpleData name="ISO_3DIGIT">JPN</SimpleData>
+		<SimpleData name="CNTRY_NAME">Japan</SimpleData>
+		<SimpleData name="LONG_NAME">Japan</SimpleData>
+		<SimpleData name="SOVEREIGN">Japan</SimpleData>
+		<SimpleData name="POP_CNTRY">125746300</SimpleData>
+		<SimpleData name="CURR_TYPE">Yen</SimpleData>
+		<SimpleData name="CURR_CODE">JPY</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">370726.88</SimpleData>
+		<SimpleData name="SQMI">143137.66</SimpleData>
+		<SimpleData name="COLOR_MAP">6</SimpleData>
+		<SimpleData name="Entity">Japan</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">11.8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>138.070110910328,37.615763909466</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">JO</SimpleData>
+		<SimpleData name="GMI_CNTRY">JOR</SimpleData>
+		<SimpleData name="ISO_2DIGIT">JO</SimpleData>
+		<SimpleData name="ISO_3DIGIT">JOR</SimpleData>
+		<SimpleData name="CNTRY_NAME">Jordan</SimpleData>
+		<SimpleData name="LONG_NAME">Jordan</SimpleData>
+		<SimpleData name="SOVEREIGN">Jordan</SimpleData>
+		<SimpleData name="POP_CNTRY">3950283</SimpleData>
+		<SimpleData name="CURR_TYPE">Dinar</SimpleData>
+		<SimpleData name="CURR_CODE">JOD</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">87398.57</SimpleData>
+		<SimpleData name="SQMI">33744.59</SimpleData>
+		<SimpleData name="COLOR_MAP">5</SimpleData>
+		<SimpleData name="Entity">Jordan</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.7529312661573,31.2429965353279</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">SY</SimpleData>
+		<SimpleData name="GMI_CNTRY">SYR</SimpleData>
+		<SimpleData name="ISO_2DIGIT">SY</SimpleData>
+		<SimpleData name="ISO_3DIGIT">SYR</SimpleData>
+		<SimpleData name="CNTRY_NAME">Syria</SimpleData>
+		<SimpleData name="LONG_NAME">Syria</SimpleData>
+		<SimpleData name="SOVEREIGN">Syria</SimpleData>
+		<SimpleData name="POP_CNTRY">14045470</SimpleData>
+		<SimpleData name="CURR_TYPE">Pound</SimpleData>
+		<SimpleData name="CURR_CODE">SYP</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">190030.31</SimpleData>
+		<SimpleData name="SQMI">73370.7</SimpleData>
+		<SimpleData name="COLOR_MAP">8</SimpleData>
+		<SimpleData name="Entity">Syria</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.5183742413975,35.0217076382325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">IS</SimpleData>
+		<SimpleData name="GMI_CNTRY">ISR</SimpleData>
+		<SimpleData name="ISO_2DIGIT">IL</SimpleData>
+		<SimpleData name="ISO_3DIGIT">ISR</SimpleData>
+		<SimpleData name="CNTRY_NAME">Israel</SimpleData>
+		<SimpleData name="LONG_NAME">Israel</SimpleData>
+		<SimpleData name="SOVEREIGN">Israel</SimpleData>
+		<SimpleData name="POP_CNTRY">5694890</SimpleData>
+		<SimpleData name="CURR_TYPE">Shekel</SimpleData>
+		<SimpleData name="CURR_CODE">ILS</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">22670.52</SimpleData>
+		<SimpleData name="SQMI">8753.09</SimpleData>
+		<SimpleData name="COLOR_MAP">6</SimpleData>
+		<SimpleData name="Entity">Israel</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.9550217252981,31.3792700718071</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">LY</SimpleData>
+		<SimpleData name="GMI_CNTRY">LBY</SimpleData>
+		<SimpleData name="ISO_2DIGIT">LY</SimpleData>
+		<SimpleData name="ISO_3DIGIT">LBY</SimpleData>
+		<SimpleData name="CNTRY_NAME">Libya</SimpleData>
+		<SimpleData name="LONG_NAME">Libya</SimpleData>
+		<SimpleData name="SOVEREIGN">Libya</SimpleData>
+		<SimpleData name="POP_CNTRY">5245515</SimpleData>
+		<SimpleData name="CURR_TYPE">Dinar</SimpleData>
+		<SimpleData name="CURR_CODE">LYD</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">1626966.25</SimpleData>
+		<SimpleData name="SQMI">628171.56</SimpleData>
+		<SimpleData name="COLOR_MAP">7</SimpleData>
+		<SimpleData name="Entity">Libya</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.0225953754173,27.0289431605653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">PO</SimpleData>
+		<SimpleData name="GMI_CNTRY">PRT</SimpleData>
+		<SimpleData name="ISO_2DIGIT">PT</SimpleData>
+		<SimpleData name="ISO_3DIGIT">PRT</SimpleData>
+		<SimpleData name="CNTRY_NAME">Portugal</SimpleData>
+		<SimpleData name="LONG_NAME">Portugal</SimpleData>
+		<SimpleData name="SOVEREIGN">Portugal</SimpleData>
+		<SimpleData name="POP_CNTRY">9625516</SimpleData>
+		<SimpleData name="CURR_TYPE">Euro</SimpleData>
+		<SimpleData name="CURR_CODE">EUR</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">90411.11</SimpleData>
+		<SimpleData name="SQMI">34907.73</SimpleData>
+		<SimpleData name="COLOR_MAP">4</SimpleData>
+		<SimpleData name="Entity">Portugal</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">2.9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.24509205339663,39.6006565187026</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">MX</SimpleData>
+		<SimpleData name="GMI_CNTRY">MEX</SimpleData>
+		<SimpleData name="ISO_2DIGIT">MX</SimpleData>
+		<SimpleData name="ISO_3DIGIT">MEX</SimpleData>
+		<SimpleData name="CNTRY_NAME">Mexico</SimpleData>
+		<SimpleData name="LONG_NAME">Mexico</SimpleData>
+		<SimpleData name="SOVEREIGN">Mexico</SimpleData>
+		<SimpleData name="POP_CNTRY">92380850</SimpleData>
+		<SimpleData name="CURR_TYPE">New Peso</SimpleData>
+		<SimpleData name="CURR_CODE">MXP</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">1953851.13</SimpleData>
+		<SimpleData name="SQMI">754381.88</SimpleData>
+		<SimpleData name="COLOR_MAP">3</SimpleData>
+		<SimpleData name="Entity">Mexico</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">2.4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.527628918614,23.9510671215291</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">BD</SimpleData>
+		<SimpleData name="GMI_CNTRY">BMU</SimpleData>
+		<SimpleData name="ISO_2DIGIT">BM</SimpleData>
+		<SimpleData name="ISO_3DIGIT">BMU</SimpleData>
+		<SimpleData name="CNTRY_NAME">Bermuda</SimpleData>
+		<SimpleData name="LONG_NAME">Bermuda</SimpleData>
+		<SimpleData name="SOVEREIGN">United Kingdom</SimpleData>
+		<SimpleData name="POP_CNTRY">59973</SimpleData>
+		<SimpleData name="CURR_TYPE">Dollar</SimpleData>
+		<SimpleData name="CURR_CODE">BMD</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">14.4</SimpleData>
+		<SimpleData name="SQMI">5.56</SimpleData>
+		<SimpleData name="COLOR_MAP">3</SimpleData>
+		<SimpleData name="Entity">Bermuda</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.723101881529,32.3324240797871</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">EG</SimpleData>
+		<SimpleData name="GMI_CNTRY">EGY</SimpleData>
+		<SimpleData name="ISO_2DIGIT">EG</SimpleData>
+		<SimpleData name="ISO_3DIGIT">EGY</SimpleData>
+		<SimpleData name="CNTRY_NAME">Egypt</SimpleData>
+		<SimpleData name="LONG_NAME">Egypt</SimpleData>
+		<SimpleData name="SOVEREIGN">Egypt</SimpleData>
+		<SimpleData name="POP_CNTRY">56133430</SimpleData>
+		<SimpleData name="CURR_TYPE">Pound</SimpleData>
+		<SimpleData name="CURR_CODE">EGP</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">1000941.5</SimpleData>
+		<SimpleData name="SQMI">386463.72</SimpleData>
+		<SimpleData name="COLOR_MAP">1</SimpleData>
+		<SimpleData name="Entity">Egypt</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.8669561966177,26.5038669343057</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">NP</SimpleData>
+		<SimpleData name="GMI_CNTRY">NPL</SimpleData>
+		<SimpleData name="ISO_2DIGIT">NP</SimpleData>
+		<SimpleData name="ISO_3DIGIT">NPL</SimpleData>
+		<SimpleData name="CNTRY_NAME">Nepal</SimpleData>
+		<SimpleData name="LONG_NAME">Nepal</SimpleData>
+		<SimpleData name="SOVEREIGN">Nepal</SimpleData>
+		<SimpleData name="POP_CNTRY">19927280</SimpleData>
+		<SimpleData name="CURR_TYPE">Rupee</SimpleData>
+		<SimpleData name="CURR_CODE">NPR</SimpleData>
+		<SimpleData name="LANDLOCKED">Y</SimpleData>
+		<SimpleData name="SQKM">148252.95</SimpleData>
+		<SimpleData name="SQMI">57240.48</SimpleData>
+		<SimpleData name="COLOR_MAP">1</SimpleData>
+		<SimpleData name="Entity">Nepal</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">22.8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>83.9345595783139,28.2495805389099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">KU</SimpleData>
+		<SimpleData name="GMI_CNTRY">KWT</SimpleData>
+		<SimpleData name="ISO_2DIGIT">KW</SimpleData>
+		<SimpleData name="ISO_3DIGIT">KWT</SimpleData>
+		<SimpleData name="CNTRY_NAME">Kuwait</SimpleData>
+		<SimpleData name="LONG_NAME">Kuwait</SimpleData>
+		<SimpleData name="SOVEREIGN">Kuwait</SimpleData>
+		<SimpleData name="POP_CNTRY">1639000</SimpleData>
+		<SimpleData name="CURR_TYPE">Dinar</SimpleData>
+		<SimpleData name="CURR_CODE">KWD</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">16688.05</SimpleData>
+		<SimpleData name="SQMI">6443.26</SimpleData>
+		<SimpleData name="COLOR_MAP">7</SimpleData>
+		<SimpleData name="Entity">Kuwait</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.5709166581258,29.3285921515788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">BT</SimpleData>
+		<SimpleData name="GMI_CNTRY">BTN</SimpleData>
+		<SimpleData name="ISO_2DIGIT">BT</SimpleData>
+		<SimpleData name="ISO_3DIGIT">BTN</SimpleData>
+		<SimpleData name="CNTRY_NAME">Bhutan</SimpleData>
+		<SimpleData name="LONG_NAME">Bhutan</SimpleData>
+		<SimpleData name="SOVEREIGN">Bhutan</SimpleData>
+		<SimpleData name="POP_CNTRY">1586631</SimpleData>
+		<SimpleData name="CURR_TYPE">Ngultrum</SimpleData>
+		<SimpleData name="CURR_CODE">BTN</SimpleData>
+		<SimpleData name="LANDLOCKED">Y</SimpleData>
+		<SimpleData name="SQKM">39408.2</SimpleData>
+		<SimpleData name="SQMI">15215.51</SimpleData>
+		<SimpleData name="COLOR_MAP">7</SimpleData>
+		<SimpleData name="Entity">Bhutan</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>90.4450387725753,27.4162417907029</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">MR</SimpleData>
+		<SimpleData name="GMI_CNTRY">MRT</SimpleData>
+		<SimpleData name="ISO_2DIGIT">MR</SimpleData>
+		<SimpleData name="ISO_3DIGIT">MRT</SimpleData>
+		<SimpleData name="CNTRY_NAME">Mauritania</SimpleData>
+		<SimpleData name="LONG_NAME">Mauritania</SimpleData>
+		<SimpleData name="SOVEREIGN">Mauritania</SimpleData>
+		<SimpleData name="POP_CNTRY">2204077</SimpleData>
+		<SimpleData name="CURR_TYPE">Ouguiya</SimpleData>
+		<SimpleData name="CURR_CODE">MRO</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">1038293.31</SimpleData>
+		<SimpleData name="SQMI">400884.94</SimpleData>
+		<SimpleData name="COLOR_MAP">1</SimpleData>
+		<SimpleData name="Entity">Mauritania</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-10.3328522644636,20.2564675927567</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">IR</SimpleData>
+		<SimpleData name="GMI_CNTRY">IRN</SimpleData>
+		<SimpleData name="ISO_2DIGIT">IR</SimpleData>
+		<SimpleData name="ISO_3DIGIT">IRN</SimpleData>
+		<SimpleData name="CNTRY_NAME">Iran</SimpleData>
+		<SimpleData name="LONG_NAME">Iran</SimpleData>
+		<SimpleData name="SOVEREIGN">Iran</SimpleData>
+		<SimpleData name="POP_CNTRY">64193450</SimpleData>
+		<SimpleData name="CURR_TYPE">Rial</SimpleData>
+		<SimpleData name="CURR_CODE">IRR</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">1680135.5</SimpleData>
+		<SimpleData name="SQMI">648700.5</SimpleData>
+		<SimpleData name="COLOR_MAP">6</SimpleData>
+		<SimpleData name="Entity">Iran</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">5.3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>54.200157192515,32.7377361630701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">BG</SimpleData>
+		<SimpleData name="GMI_CNTRY">BGD</SimpleData>
+		<SimpleData name="ISO_2DIGIT">BD</SimpleData>
+		<SimpleData name="ISO_3DIGIT">BGD</SimpleData>
+		<SimpleData name="CNTRY_NAME">Bangladesh</SimpleData>
+		<SimpleData name="LONG_NAME">Bangladesh</SimpleData>
+		<SimpleData name="SOVEREIGN">Bangladesh</SimpleData>
+		<SimpleData name="POP_CNTRY">120732200</SimpleData>
+		<SimpleData name="CURR_TYPE">Taka</SimpleData>
+		<SimpleData name="CURR_CODE">BDT</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">135692.92</SimpleData>
+		<SimpleData name="SQMI">52391.03</SimpleData>
+		<SimpleData name="COLOR_MAP">6</SimpleData>
+		<SimpleData name="Entity">Bangladesh</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>90.2598313795362,23.8743118930135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">TW</SimpleData>
+		<SimpleData name="GMI_CNTRY">TWN</SimpleData>
+		<SimpleData name="ISO_2DIGIT">TW</SimpleData>
+		<SimpleData name="ISO_3DIGIT">TWN</SimpleData>
+		<SimpleData name="CNTRY_NAME">Taiwan</SimpleData>
+		<SimpleData name="LONG_NAME">Taiwan</SimpleData>
+		<SimpleData name="SOVEREIGN">Taiwan</SimpleData>
+		<SimpleData name="POP_CNTRY">21465881</SimpleData>
+		<SimpleData name="CURR_TYPE">Dollar</SimpleData>
+		<SimpleData name="CURR_CODE">TWD</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">36696.98</SimpleData>
+		<SimpleData name="SQMI">14168.7</SimpleData>
+		<SimpleData name="COLOR_MAP">4</SimpleData>
+		<SimpleData name="Entity">Taiwan</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.965831345887,23.7318012148915</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">ML</SimpleData>
+		<SimpleData name="GMI_CNTRY">MLI</SimpleData>
+		<SimpleData name="ISO_2DIGIT">ML</SimpleData>
+		<SimpleData name="ISO_3DIGIT">MLI</SimpleData>
+		<SimpleData name="CNTRY_NAME">Mali</SimpleData>
+		<SimpleData name="LONG_NAME">Mali</SimpleData>
+		<SimpleData name="SOVEREIGN">Mali</SimpleData>
+		<SimpleData name="POP_CNTRY">9744733</SimpleData>
+		<SimpleData name="CURR_TYPE">CFA Franc</SimpleData>
+		<SimpleData name="CURR_CODE">XOF</SimpleData>
+		<SimpleData name="LANDLOCKED">Y</SimpleData>
+		<SimpleData name="SQKM">1258012.5</SimpleData>
+		<SimpleData name="SQMI">485718.81</SimpleData>
+		<SimpleData name="COLOR_MAP">4</SimpleData>
+		<SimpleData name="Entity">Mali</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.52229085063328,17.3477461051226</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">NG</SimpleData>
+		<SimpleData name="GMI_CNTRY">NER</SimpleData>
+		<SimpleData name="ISO_2DIGIT">NE</SimpleData>
+		<SimpleData name="ISO_3DIGIT">NER</SimpleData>
+		<SimpleData name="CNTRY_NAME">Niger</SimpleData>
+		<SimpleData name="LONG_NAME">Niger</SimpleData>
+		<SimpleData name="SOVEREIGN">Niger</SimpleData>
+		<SimpleData name="POP_CNTRY">8797739</SimpleData>
+		<SimpleData name="CURR_TYPE">CFA Franc</SimpleData>
+		<SimpleData name="CURR_CODE">XOF</SimpleData>
+		<SimpleData name="LANDLOCKED">Y</SimpleData>
+		<SimpleData name="SQKM">1184364.38</SimpleData>
+		<SimpleData name="SQMI">457282.94</SimpleData>
+		<SimpleData name="COLOR_MAP">1</SimpleData>
+		<SimpleData name="Entity">Niger</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.4050243034503,17.4206111461627</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">CD</SimpleData>
+		<SimpleData name="GMI_CNTRY">TCD</SimpleData>
+		<SimpleData name="ISO_2DIGIT">TD</SimpleData>
+		<SimpleData name="ISO_3DIGIT">TCD</SimpleData>
+		<SimpleData name="CNTRY_NAME">Chad</SimpleData>
+		<SimpleData name="LONG_NAME">Chad</SimpleData>
+		<SimpleData name="SOVEREIGN">Chad</SimpleData>
+		<SimpleData name="POP_CNTRY">6308708</SimpleData>
+		<SimpleData name="CURR_TYPE">CFA Franc</SimpleData>
+		<SimpleData name="CURR_CODE">XOF</SimpleData>
+		<SimpleData name="LANDLOCKED">Y</SimpleData>
+		<SimpleData name="SQKM">1270759.38</SimpleData>
+		<SimpleData name="SQMI">490640.06</SimpleData>
+		<SimpleData name="COLOR_MAP">8</SimpleData>
+		<SimpleData name="Entity">Chad</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.6671366176964,15.3421263001458</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">VM</SimpleData>
+		<SimpleData name="GMI_CNTRY">VNM</SimpleData>
+		<SimpleData name="ISO_2DIGIT">VN</SimpleData>
+		<SimpleData name="ISO_3DIGIT">VNM</SimpleData>
+		<SimpleData name="CNTRY_NAME">Vietnam</SimpleData>
+		<SimpleData name="LONG_NAME">Vietnam</SimpleData>
+		<SimpleData name="SOVEREIGN">Vietnam</SimpleData>
+		<SimpleData name="POP_CNTRY">71215210</SimpleData>
+		<SimpleData name="CURR_TYPE">Dong</SimpleData>
+		<SimpleData name="CURR_CODE">VND</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">322742.56</SimpleData>
+		<SimpleData name="SQMI">124610.91</SimpleData>
+		<SimpleData name="COLOR_MAP">3</SimpleData>
+		<SimpleData name="Entity">Vietnam</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">22.1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>106.308820734481,16.647500517058</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">CU</SimpleData>
+		<SimpleData name="GMI_CNTRY">CUB</SimpleData>
+		<SimpleData name="ISO_2DIGIT">CU</SimpleData>
+		<SimpleData name="ISO_3DIGIT">CUB</SimpleData>
+		<SimpleData name="CNTRY_NAME">Cuba</SimpleData>
+		<SimpleData name="LONG_NAME">Cuba</SimpleData>
+		<SimpleData name="SOVEREIGN">Cuba</SimpleData>
+		<SimpleData name="POP_CNTRY">11102280</SimpleData>
+		<SimpleData name="CURR_TYPE">Peso</SimpleData>
+		<SimpleData name="CURR_CODE">CUP</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">107891.05</SimpleData>
+		<SimpleData name="SQMI">41656.75</SimpleData>
+		<SimpleData name="COLOR_MAP">6</SimpleData>
+		<SimpleData name="Entity">Cuba</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.9813471725704,21.6058454787594</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">LA</SimpleData>
+		<SimpleData name="GMI_CNTRY">LAO</SimpleData>
+		<SimpleData name="ISO_2DIGIT">LA</SimpleData>
+		<SimpleData name="ISO_3DIGIT">LAO</SimpleData>
+		<SimpleData name="CNTRY_NAME">Laos</SimpleData>
+		<SimpleData name="LONG_NAME">Laos</SimpleData>
+		<SimpleData name="SOVEREIGN">Laos</SimpleData>
+		<SimpleData name="POP_CNTRY">4722773</SimpleData>
+		<SimpleData name="CURR_TYPE">Kip</SimpleData>
+		<SimpleData name="CURR_CODE">LAK</SimpleData>
+		<SimpleData name="LANDLOCKED">Y</SimpleData>
+		<SimpleData name="SQKM">231035.45</SimpleData>
+		<SimpleData name="SQMI">89202.8</SimpleData>
+		<SimpleData name="COLOR_MAP">1</SimpleData>
+		<SimpleData name="Entity">Laos</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.758082483226,18.5016485236462</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">SU</SimpleData>
+		<SimpleData name="GMI_CNTRY">SDN</SimpleData>
+		<SimpleData name="ISO_2DIGIT">SD</SimpleData>
+		<SimpleData name="ISO_3DIGIT">SDN</SimpleData>
+		<SimpleData name="CNTRY_NAME">Sudan</SimpleData>
+		<SimpleData name="LONG_NAME">Sudan</SimpleData>
+		<SimpleData name="SOVEREIGN">Sudan</SimpleData>
+		<SimpleData name="POP_CNTRY">27713420</SimpleData>
+		<SimpleData name="CURR_TYPE">Dinar</SimpleData>
+		<SimpleData name="CURR_CODE">SDD</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">2496340</SimpleData>
+		<SimpleData name="SQMI">963836.88</SimpleData>
+		<SimpleData name="COLOR_MAP">2</SimpleData>
+		<SimpleData name="Entity">Sudan</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.0558223551497,13.8329607138716</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">TK</SimpleData>
+		<SimpleData name="GMI_CNTRY">TCA</SimpleData>
+		<SimpleData name="ISO_2DIGIT">TC</SimpleData>
+		<SimpleData name="ISO_3DIGIT">TCA</SimpleData>
+		<SimpleData name="CNTRY_NAME">Turks &amp; Caicos Is.</SimpleData>
+		<SimpleData name="LONG_NAME">Turks and Caicos Islands</SimpleData>
+		<SimpleData name="SOVEREIGN">United Kingdom</SimpleData>
+		<SimpleData name="POP_CNTRY">14512</SimpleData>
+		<SimpleData name="CURR_TYPE">US Dollar</SimpleData>
+		<SimpleData name="CURR_CODE">USD</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">163.4</SimpleData>
+		<SimpleData name="SQMI">63.09</SimpleData>
+		<SimpleData name="COLOR_MAP">4</SimpleData>
+		<SimpleData name="Entity">Turks and Caicos Islands</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.745876323581,21.7994639835719</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">TH</SimpleData>
+		<SimpleData name="GMI_CNTRY">THA</SimpleData>
+		<SimpleData name="ISO_2DIGIT">TH</SimpleData>
+		<SimpleData name="ISO_3DIGIT">THA</SimpleData>
+		<SimpleData name="CNTRY_NAME">Thailand</SimpleData>
+		<SimpleData name="LONG_NAME">Thailand</SimpleData>
+		<SimpleData name="SOVEREIGN">Thailand</SimpleData>
+		<SimpleData name="POP_CNTRY">57323780</SimpleData>
+		<SimpleData name="CURR_TYPE">Baht</SimpleData>
+		<SimpleData name="CURR_CODE">THB</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">515356.84</SimpleData>
+		<SimpleData name="SQMI">198979.27</SimpleData>
+		<SimpleData name="COLOR_MAP">4</SimpleData>
+		<SimpleData name="Entity">Thailand</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0.9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.011732166577,15.1137771596483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">CH</SimpleData>
+		<SimpleData name="GMI_CNTRY">CHN</SimpleData>
+		<SimpleData name="ISO_2DIGIT">CN</SimpleData>
+		<SimpleData name="ISO_3DIGIT">CHN</SimpleData>
+		<SimpleData name="CNTRY_NAME">China</SimpleData>
+		<SimpleData name="LONG_NAME">China</SimpleData>
+		<SimpleData name="SOVEREIGN">China</SimpleData>
+		<SimpleData name="POP_CNTRY">1281396894</SimpleData>
+		<SimpleData name="CURR_TYPE">Renminbi Yuan</SimpleData>
+		<SimpleData name="CURR_CODE">CNY</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">9366190</SimpleData>
+		<SimpleData name="SQMI">3616286</SimpleData>
+		<SimpleData name="COLOR_MAP">2</SimpleData>
+		<SimpleData name="Entity">China</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">124.8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.830367364218,36.5630705391483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">DR</SimpleData>
+		<SimpleData name="GMI_CNTRY">DOM</SimpleData>
+		<SimpleData name="ISO_2DIGIT">DO</SimpleData>
+		<SimpleData name="ISO_3DIGIT">DOM</SimpleData>
+		<SimpleData name="CNTRY_NAME">Dominican Republic</SimpleData>
+		<SimpleData name="LONG_NAME">Dominican Republic</SimpleData>
+		<SimpleData name="SOVEREIGN">Dominican Republic</SimpleData>
+		<SimpleData name="POP_CNTRY">7759957</SimpleData>
+		<SimpleData name="CURR_TYPE">Peso Oro</SimpleData>
+		<SimpleData name="CURR_CODE">DOP</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">47265.95</SimpleData>
+		<SimpleData name="SQMI">18249.38</SimpleData>
+		<SimpleData name="COLOR_MAP">4</SimpleData>
+		<SimpleData name="Entity">Dominican Republic</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.4910818449445,18.9096220685166</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">HA</SimpleData>
+		<SimpleData name="GMI_CNTRY">HTI</SimpleData>
+		<SimpleData name="ISO_2DIGIT">HT</SimpleData>
+		<SimpleData name="ISO_3DIGIT">HTI</SimpleData>
+		<SimpleData name="CNTRY_NAME">Haiti</SimpleData>
+		<SimpleData name="LONG_NAME">Haiti</SimpleData>
+		<SimpleData name="SOVEREIGN">Haiti</SimpleData>
+		<SimpleData name="POP_CNTRY">7044890</SimpleData>
+		<SimpleData name="CURR_TYPE">Gourde</SimpleData>
+		<SimpleData name="CURR_CODE">HTG</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">27949.04</SimpleData>
+		<SimpleData name="SQMI">10791.12</SimpleData>
+		<SimpleData name="COLOR_MAP">1</SimpleData>
+		<SimpleData name="Entity">Haiti</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.6649949469172,18.9325571291447</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">RP</SimpleData>
+		<SimpleData name="GMI_CNTRY">PHL</SimpleData>
+		<SimpleData name="ISO_2DIGIT">PH</SimpleData>
+		<SimpleData name="ISO_3DIGIT">PHL</SimpleData>
+		<SimpleData name="CNTRY_NAME">Philippines</SimpleData>
+		<SimpleData name="LONG_NAME">Philippines</SimpleData>
+		<SimpleData name="SOVEREIGN">Philippines</SimpleData>
+		<SimpleData name="POP_CNTRY">65981120</SimpleData>
+		<SimpleData name="CURR_TYPE">Peso</SimpleData>
+		<SimpleData name="CURR_CODE">PHP</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">280957.72</SimpleData>
+		<SimpleData name="SQMI">108477.77</SimpleData>
+		<SimpleData name="COLOR_MAP">7</SimpleData>
+		<SimpleData name="Entity">Philippines</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">19.3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>122.896182211543,11.8142682778773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">RQ</SimpleData>
+		<SimpleData name="GMI_CNTRY">PRI</SimpleData>
+		<SimpleData name="ISO_2DIGIT">PR</SimpleData>
+		<SimpleData name="ISO_3DIGIT">PRI</SimpleData>
+		<SimpleData name="CNTRY_NAME">Puerto Rico</SimpleData>
+		<SimpleData name="LONG_NAME">Puerto Rico</SimpleData>
+		<SimpleData name="SOVEREIGN">United States</SimpleData>
+		<SimpleData name="POP_CNTRY">3647931</SimpleData>
+		<SimpleData name="CURR_TYPE">US Dollar</SimpleData>
+		<SimpleData name="CURR_CODE">USD</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">9084.03</SimpleData>
+		<SimpleData name="SQMI">3507.34</SimpleData>
+		<SimpleData name="COLOR_MAP">8</SimpleData>
+		<SimpleData name="Entity">Puerto Rico</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-66.5116730880153,18.2187472655492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">JM</SimpleData>
+		<SimpleData name="GMI_CNTRY">JAM</SimpleData>
+		<SimpleData name="ISO_2DIGIT">JM</SimpleData>
+		<SimpleData name="ISO_3DIGIT">JAM</SimpleData>
+		<SimpleData name="CNTRY_NAME">Jamaica</SimpleData>
+		<SimpleData name="LONG_NAME">Jamaica</SimpleData>
+		<SimpleData name="SOVEREIGN">Jamaica</SimpleData>
+		<SimpleData name="POP_CNTRY">2407607</SimpleData>
+		<SimpleData name="CURR_TYPE">Dollar</SimpleData>
+		<SimpleData name="CURR_CODE">JMD</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">10991.5</SimpleData>
+		<SimpleData name="SQMI">4243.82</SimpleData>
+		<SimpleData name="COLOR_MAP">4</SimpleData>
+		<SimpleData name="Entity">Jamaica</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.3287143049007,18.1495947983529</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">BH</SimpleData>
+		<SimpleData name="GMI_CNTRY">BLZ</SimpleData>
+		<SimpleData name="ISO_2DIGIT">BZ</SimpleData>
+		<SimpleData name="ISO_3DIGIT">BLZ</SimpleData>
+		<SimpleData name="CNTRY_NAME">Belize</SimpleData>
+		<SimpleData name="LONG_NAME">Belize</SimpleData>
+		<SimpleData name="SOVEREIGN">Belize</SimpleData>
+		<SimpleData name="POP_CNTRY">207586</SimpleData>
+		<SimpleData name="CURR_TYPE">Dollar</SimpleData>
+		<SimpleData name="CURR_CODE">BZD</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">22667.9</SimpleData>
+		<SimpleData name="SQMI">8752.08</SimpleData>
+		<SimpleData name="COLOR_MAP">7</SimpleData>
+		<SimpleData name="Entity">Belize</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.7020543601981,17.1779917790559</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">VI</SimpleData>
+		<SimpleData name="GMI_CNTRY">VGB</SimpleData>
+		<SimpleData name="ISO_2DIGIT">VG</SimpleData>
+		<SimpleData name="ISO_3DIGIT">VGB</SimpleData>
+		<SimpleData name="CNTRY_NAME">British Virgin Is.</SimpleData>
+		<SimpleData name="LONG_NAME">British Virgin Islands</SimpleData>
+		<SimpleData name="SOVEREIGN">United Kingdom</SimpleData>
+		<SimpleData name="POP_CNTRY">18194</SimpleData>
+		<SimpleData name="CURR_TYPE">US Dollar</SimpleData>
+		<SimpleData name="CURR_CODE">USD</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">40.02</SimpleData>
+		<SimpleData name="SQMI">15.45</SimpleData>
+		<SimpleData name="COLOR_MAP">8</SimpleData>
+		<SimpleData name="Entity">British Virgin Islands</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.6424456703598,18.4207005810084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">AV</SimpleData>
+		<SimpleData name="GMI_CNTRY">AIA</SimpleData>
+		<SimpleData name="ISO_2DIGIT">AI</SimpleData>
+		<SimpleData name="ISO_3DIGIT">AIA</SimpleData>
+		<SimpleData name="CNTRY_NAME">Anguilla</SimpleData>
+		<SimpleData name="LONG_NAME">Anguilla</SimpleData>
+		<SimpleData name="SOVEREIGN">United Kingdom</SimpleData>
+		<SimpleData name="POP_CNTRY">9208</SimpleData>
+		<SimpleData name="CURR_TYPE">EC Dollar</SimpleData>
+		<SimpleData name="CURR_CODE">XCD</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">74.48</SimpleData>
+		<SimpleData name="SQMI">28.76</SimpleData>
+		<SimpleData name="COLOR_MAP">6</SimpleData>
+		<SimpleData name="Entity">Anguilla</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-63.0542675711407,18.2265313573685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">GT</SimpleData>
+		<SimpleData name="GMI_CNTRY">GTM</SimpleData>
+		<SimpleData name="ISO_2DIGIT">GT</SimpleData>
+		<SimpleData name="ISO_3DIGIT">GTM</SimpleData>
+		<SimpleData name="CNTRY_NAME">Guatemala</SimpleData>
+		<SimpleData name="LONG_NAME">Guatemala</SimpleData>
+		<SimpleData name="SOVEREIGN">Guatemala</SimpleData>
+		<SimpleData name="POP_CNTRY">10321270</SimpleData>
+		<SimpleData name="CURR_TYPE">Quetzal</SimpleData>
+		<SimpleData name="CURR_CODE">GTQ</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">109829.01</SimpleData>
+		<SimpleData name="SQMI">42404.98</SimpleData>
+		<SimpleData name="COLOR_MAP">8</SimpleData>
+		<SimpleData name="Entity">Guatemala</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">5.1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-90.3582166620898,15.6844485927129</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">AC</SimpleData>
+		<SimpleData name="GMI_CNTRY">ATG</SimpleData>
+		<SimpleData name="ISO_2DIGIT">AG</SimpleData>
+		<SimpleData name="ISO_3DIGIT">ATG</SimpleData>
+		<SimpleData name="CNTRY_NAME">Antigua &amp; Barbuda</SimpleData>
+		<SimpleData name="LONG_NAME">Antigua and Barbuda</SimpleData>
+		<SimpleData name="SOVEREIGN">Antigua &amp; Barbuda</SimpleData>
+		<SimpleData name="POP_CNTRY">65212</SimpleData>
+		<SimpleData name="CURR_TYPE">EC Dollar</SimpleData>
+		<SimpleData name="CURR_CODE">XCD</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">255.13</SimpleData>
+		<SimpleData name="SQMI">98.51</SimpleData>
+		<SimpleData name="COLOR_MAP">2</SimpleData>
+		<SimpleData name="Entity">Antigua and Barbuda</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.7823361943832,17.0698351099715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">MH</SimpleData>
+		<SimpleData name="GMI_CNTRY">MSR</SimpleData>
+		<SimpleData name="ISO_2DIGIT">MS</SimpleData>
+		<SimpleData name="ISO_3DIGIT">MSR</SimpleData>
+		<SimpleData name="CNTRY_NAME">Montserrat</SimpleData>
+		<SimpleData name="LONG_NAME">Montserrat</SimpleData>
+		<SimpleData name="SOVEREIGN">United Kingdom</SimpleData>
+		<SimpleData name="POP_CNTRY">12771</SimpleData>
+		<SimpleData name="CURR_TYPE">EC Dollar</SimpleData>
+		<SimpleData name="CURR_CODE">XCD</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">76.95</SimpleData>
+		<SimpleData name="SQMI">29.71</SimpleData>
+		<SimpleData name="COLOR_MAP">1</SimpleData>
+		<SimpleData name="Entity">Montserrat</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.1910105204142,16.7291929501068</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">CV</SimpleData>
+		<SimpleData name="GMI_CNTRY">CPV</SimpleData>
+		<SimpleData name="ISO_2DIGIT">CV</SimpleData>
+		<SimpleData name="ISO_3DIGIT">CPV</SimpleData>
+		<SimpleData name="CNTRY_NAME">Cape Verde</SimpleData>
+		<SimpleData name="LONG_NAME">Cape Verde</SimpleData>
+		<SimpleData name="SOVEREIGN">Cape Verde</SimpleData>
+		<SimpleData name="POP_CNTRY">413573</SimpleData>
+		<SimpleData name="CURR_TYPE">Escudo</SimpleData>
+		<SimpleData name="CURR_CODE">CVE</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">2167.95</SimpleData>
+		<SimpleData name="SQMI">837.04</SimpleData>
+		<SimpleData name="COLOR_MAP">5</SimpleData>
+		<SimpleData name="Entity">Cape Verde</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-23.9148712330236,15.8890904798235</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">SG</SimpleData>
+		<SimpleData name="GMI_CNTRY">SEN</SimpleData>
+		<SimpleData name="ISO_2DIGIT">SN</SimpleData>
+		<SimpleData name="ISO_3DIGIT">SEN</SimpleData>
+		<SimpleData name="CNTRY_NAME">Senegal</SimpleData>
+		<SimpleData name="LONG_NAME">Senegal</SimpleData>
+		<SimpleData name="SOVEREIGN">Senegal</SimpleData>
+		<SimpleData name="POP_CNTRY">8116554</SimpleData>
+		<SimpleData name="CURR_TYPE">CFA Franc</SimpleData>
+		<SimpleData name="CURR_CODE">XOF</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">197395.88</SimpleData>
+		<SimpleData name="SQMI">76214.55</SimpleData>
+		<SimpleData name="COLOR_MAP">8</SimpleData>
+		<SimpleData name="Entity">Senegal</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-14.4630793656117,14.3683395311168</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">GP</SimpleData>
+		<SimpleData name="GMI_CNTRY">GLP</SimpleData>
+		<SimpleData name="ISO_2DIGIT">GP</SimpleData>
+		<SimpleData name="ISO_3DIGIT">GLP</SimpleData>
+		<SimpleData name="CNTRY_NAME">Guadeloupe</SimpleData>
+		<SimpleData name="LONG_NAME">Guadeloupe</SimpleData>
+		<SimpleData name="SOVEREIGN">France</SimpleData>
+		<SimpleData name="POP_CNTRY">410638</SimpleData>
+		<SimpleData name="CURR_TYPE">Euro</SimpleData>
+		<SimpleData name="CURR_CODE">EUR</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">1120.07</SimpleData>
+		<SimpleData name="SQMI">432.46</SimpleData>
+		<SimpleData name="COLOR_MAP">2</SimpleData>
+		<SimpleData name="Entity">Guadeloupe</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.5351090266057,16.2660294206085</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">HO</SimpleData>
+		<SimpleData name="GMI_CNTRY">HND</SimpleData>
+		<SimpleData name="ISO_2DIGIT">HN</SimpleData>
+		<SimpleData name="ISO_3DIGIT">HND</SimpleData>
+		<SimpleData name="CNTRY_NAME">Honduras</SimpleData>
+		<SimpleData name="LONG_NAME">Honduras</SimpleData>
+		<SimpleData name="SOVEREIGN">Honduras</SimpleData>
+		<SimpleData name="POP_CNTRY">5367067</SimpleData>
+		<SimpleData name="CURR_TYPE">Lempira</SimpleData>
+		<SimpleData name="CURR_CODE">HNL</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">113029.05</SimpleData>
+		<SimpleData name="SQMI">43640.54</SimpleData>
+		<SimpleData name="COLOR_MAP">4</SimpleData>
+		<SimpleData name="Entity">Honduras</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.6411985257853,14.8086134892847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">DO</SimpleData>
+		<SimpleData name="GMI_CNTRY">DMA</SimpleData>
+		<SimpleData name="ISO_2DIGIT">DM</SimpleData>
+		<SimpleData name="ISO_3DIGIT">DMA</SimpleData>
+		<SimpleData name="CNTRY_NAME">Dominica</SimpleData>
+		<SimpleData name="LONG_NAME">Dominica</SimpleData>
+		<SimpleData name="SOVEREIGN">Dominica</SimpleData>
+		<SimpleData name="POP_CNTRY">70671</SimpleData>
+		<SimpleData name="CURR_TYPE">EC Dollar</SimpleData>
+		<SimpleData name="CURR_CODE">XCD</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">424.29</SimpleData>
+		<SimpleData name="SQMI">163.82</SimpleData>
+		<SimpleData name="COLOR_MAP">2</SimpleData>
+		<SimpleData name="Entity">Dominica</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.3563919067383,15.4304618835449</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">UV</SimpleData>
+		<SimpleData name="GMI_CNTRY">BFA</SimpleData>
+		<SimpleData name="ISO_2DIGIT">BF</SimpleData>
+		<SimpleData name="ISO_3DIGIT">BFA</SimpleData>
+		<SimpleData name="CNTRY_NAME">Burkina Faso</SimpleData>
+		<SimpleData name="LONG_NAME">Burkina Faso</SimpleData>
+		<SimpleData name="SOVEREIGN">Burkina Faso</SimpleData>
+		<SimpleData name="POP_CNTRY">10164690</SimpleData>
+		<SimpleData name="CURR_TYPE">CFA Franc</SimpleData>
+		<SimpleData name="CURR_CODE">XOF</SimpleData>
+		<SimpleData name="LANDLOCKED">Y</SimpleData>
+		<SimpleData name="SQKM">274056.25</SimpleData>
+		<SimpleData name="SQMI">105813.14</SimpleData>
+		<SimpleData name="COLOR_MAP">2</SimpleData>
+		<SimpleData name="Entity">Burkina Faso</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.74782570293983,12.2647860940253</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">NU</SimpleData>
+		<SimpleData name="GMI_CNTRY">NIC</SimpleData>
+		<SimpleData name="ISO_2DIGIT">NI</SimpleData>
+		<SimpleData name="ISO_3DIGIT">NIC</SimpleData>
+		<SimpleData name="CNTRY_NAME">Nicaragua</SimpleData>
+		<SimpleData name="LONG_NAME">Nicaragua</SimpleData>
+		<SimpleData name="SOVEREIGN">Nicaragua</SimpleData>
+		<SimpleData name="POP_CNTRY">4275103</SimpleData>
+		<SimpleData name="CURR_TYPE">Cordoba Oro</SimpleData>
+		<SimpleData name="CURR_CODE">NIO</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">129795.64</SimpleData>
+		<SimpleData name="SQMI">50114.08</SimpleData>
+		<SimpleData name="COLOR_MAP">5</SimpleData>
+		<SimpleData name="Entity">Nicaragua</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0302429782952,12.8399095478668</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">ET</SimpleData>
+		<SimpleData name="GMI_CNTRY">ETH</SimpleData>
+		<SimpleData name="ISO_2DIGIT">ET</SimpleData>
+		<SimpleData name="ISO_3DIGIT">ETH</SimpleData>
+		<SimpleData name="CNTRY_NAME">Ethiopia</SimpleData>
+		<SimpleData name="LONG_NAME">Ethiopia</SimpleData>
+		<SimpleData name="SOVEREIGN">Ethiopia</SimpleData>
+		<SimpleData name="POP_CNTRY">53142970</SimpleData>
+		<SimpleData name="CURR_TYPE">Birr</SimpleData>
+		<SimpleData name="CURR_CODE">ETB</SimpleData>
+		<SimpleData name="LANDLOCKED">Y</SimpleData>
+		<SimpleData name="SQKM">1134156</SimpleData>
+		<SimpleData name="SQMI">437897.63</SimpleData>
+		<SimpleData name="COLOR_MAP">4</SimpleData>
+		<SimpleData name="Entity">Ethiopia</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">2.2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.6277844120765,8.61862335785164</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">MB</SimpleData>
+		<SimpleData name="GMI_CNTRY">MTQ</SimpleData>
+		<SimpleData name="ISO_2DIGIT">MQ</SimpleData>
+		<SimpleData name="ISO_3DIGIT">MTQ</SimpleData>
+		<SimpleData name="CNTRY_NAME">Martinique</SimpleData>
+		<SimpleData name="LONG_NAME">Martinique</SimpleData>
+		<SimpleData name="SOVEREIGN">France</SimpleData>
+		<SimpleData name="POP_CNTRY">374574</SimpleData>
+		<SimpleData name="CURR_TYPE">Euro</SimpleData>
+		<SimpleData name="CURR_CODE">EUR</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">780.33</SimpleData>
+		<SimpleData name="SQMI">301.28</SimpleData>
+		<SimpleData name="COLOR_MAP">4</SimpleData>
+		<SimpleData name="Entity">Martinique</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.0069396108833,14.6297640835452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">CB</SimpleData>
+		<SimpleData name="GMI_CNTRY">KHM</SimpleData>
+		<SimpleData name="ISO_2DIGIT">KH</SimpleData>
+		<SimpleData name="ISO_3DIGIT">KHM</SimpleData>
+		<SimpleData name="CNTRY_NAME">Cambodia</SimpleData>
+		<SimpleData name="LONG_NAME">Cambodia</SimpleData>
+		<SimpleData name="SOVEREIGN">Cambodia</SimpleData>
+		<SimpleData name="POP_CNTRY">9129576</SimpleData>
+		<SimpleData name="CURR_TYPE">Riel</SimpleData>
+		<SimpleData name="CURR_CODE">KHR</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">181910.77</SimpleData>
+		<SimpleData name="SQMI">70235.76</SimpleData>
+		<SimpleData name="COLOR_MAP">5</SimpleData>
+		<SimpleData name="Entity">Cambodia</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.919385782423,12.7164621188788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">ES</SimpleData>
+		<SimpleData name="GMI_CNTRY">SLV</SimpleData>
+		<SimpleData name="ISO_2DIGIT">SV</SimpleData>
+		<SimpleData name="ISO_3DIGIT">SLV</SimpleData>
+		<SimpleData name="CNTRY_NAME">El Salvador</SimpleData>
+		<SimpleData name="LONG_NAME">El Salvador</SimpleData>
+		<SimpleData name="SOVEREIGN">El Salvador</SimpleData>
+		<SimpleData name="POP_CNTRY">5752470</SimpleData>
+		<SimpleData name="CURR_TYPE">Colon</SimpleData>
+		<SimpleData name="CURR_CODE">SVC</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">19916.57</SimpleData>
+		<SimpleData name="SQMI">7689.79</SimpleData>
+		<SimpleData name="COLOR_MAP">1</SimpleData>
+		<SimpleData name="Entity">El Salvador</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">2.2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.8654687558971,13.7145189729483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">NI</SimpleData>
+		<SimpleData name="GMI_CNTRY">NGA</SimpleData>
+		<SimpleData name="ISO_2DIGIT">NG</SimpleData>
+		<SimpleData name="ISO_3DIGIT">NGA</SimpleData>
+		<SimpleData name="CNTRY_NAME">Nigeria</SimpleData>
+		<SimpleData name="LONG_NAME">Nigeria</SimpleData>
+		<SimpleData name="SOVEREIGN">Nigeria</SimpleData>
+		<SimpleData name="POP_CNTRY">97228750</SimpleData>
+		<SimpleData name="CURR_TYPE">Naira</SimpleData>
+		<SimpleData name="CURR_CODE">NGN</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">913387.88</SimpleData>
+		<SimpleData name="SQMI">352659.06</SimpleData>
+		<SimpleData name="COLOR_MAP">6</SimpleData>
+		<SimpleData name="Entity">Nigeria</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.10129949953511,9.5943174075444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">GQ</SimpleData>
+		<SimpleData name="GMI_CNTRY">GUM</SimpleData>
+		<SimpleData name="ISO_2DIGIT">GU</SimpleData>
+		<SimpleData name="ISO_3DIGIT">GUM</SimpleData>
+		<SimpleData name="CNTRY_NAME">Guam</SimpleData>
+		<SimpleData name="LONG_NAME">Guam</SimpleData>
+		<SimpleData name="SOVEREIGN">United States</SimpleData>
+		<SimpleData name="POP_CNTRY">143173</SimpleData>
+		<SimpleData name="CURR_TYPE">US Dollar</SimpleData>
+		<SimpleData name="CURR_CODE">USD</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">329.16</SimpleData>
+		<SimpleData name="SQMI">127.09</SimpleData>
+		<SimpleData name="COLOR_MAP">3</SimpleData>
+		<SimpleData name="Entity">Guam</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.74690246582,13.4383544921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">BB</SimpleData>
+		<SimpleData name="GMI_CNTRY">BRB</SimpleData>
+		<SimpleData name="ISO_2DIGIT">BB</SimpleData>
+		<SimpleData name="ISO_3DIGIT">BRB</SimpleData>
+		<SimpleData name="CNTRY_NAME">Barbados</SimpleData>
+		<SimpleData name="LONG_NAME">Barbados</SimpleData>
+		<SimpleData name="SOVEREIGN">Barbados</SimpleData>
+		<SimpleData name="POP_CNTRY">260627</SimpleData>
+		<SimpleData name="CURR_TYPE">Dollar</SimpleData>
+		<SimpleData name="CURR_CODE">BBD</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">245.43</SimpleData>
+		<SimpleData name="SQMI">94.76</SimpleData>
+		<SimpleData name="COLOR_MAP">1</SimpleData>
+		<SimpleData name="Entity">Barbados</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-59.5311126708984,13.1835174560547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">CM</SimpleData>
+		<SimpleData name="GMI_CNTRY">CMR</SimpleData>
+		<SimpleData name="ISO_2DIGIT">CM</SimpleData>
+		<SimpleData name="ISO_3DIGIT">CMR</SimpleData>
+		<SimpleData name="CNTRY_NAME">Cameroon</SimpleData>
+		<SimpleData name="LONG_NAME">Cameroon</SimpleData>
+		<SimpleData name="SOVEREIGN">Cameroon</SimpleData>
+		<SimpleData name="POP_CNTRY">13218480</SimpleData>
+		<SimpleData name="CURR_TYPE">CFA Franc</SimpleData>
+		<SimpleData name="CURR_CODE">XAF</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">466386.53</SimpleData>
+		<SimpleData name="SQMI">180071.83</SimpleData>
+		<SimpleData name="COLOR_MAP">7</SimpleData>
+		<SimpleData name="Entity">Cameroon</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.7552601752056,5.69117042189695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">DJ</SimpleData>
+		<SimpleData name="GMI_CNTRY">DJI</SimpleData>
+		<SimpleData name="ISO_2DIGIT">DJ</SimpleData>
+		<SimpleData name="ISO_3DIGIT">DJI</SimpleData>
+		<SimpleData name="CNTRY_NAME">Djibouti</SimpleData>
+		<SimpleData name="LONG_NAME">Djibouti</SimpleData>
+		<SimpleData name="SOVEREIGN">Djibouti</SimpleData>
+		<SimpleData name="POP_CNTRY">450751</SimpleData>
+		<SimpleData name="CURR_TYPE">Djibouti Franc</SimpleData>
+		<SimpleData name="CURR_CODE">DJF</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">20502.8</SimpleData>
+		<SimpleData name="SQMI">7916.13</SimpleData>
+		<SimpleData name="COLOR_MAP">1</SimpleData>
+		<SimpleData name="Entity">Djibouti</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>42.5507238390274,11.7259773074987</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">PU</SimpleData>
+		<SimpleData name="GMI_CNTRY">GNB</SimpleData>
+		<SimpleData name="ISO_2DIGIT">GW</SimpleData>
+		<SimpleData name="ISO_3DIGIT">GNB</SimpleData>
+		<SimpleData name="CNTRY_NAME">Guinea-Bissau</SimpleData>
+		<SimpleData name="LONG_NAME">Guinea-Bissau</SimpleData>
+		<SimpleData name="SOVEREIGN">Guinea-Bissau</SimpleData>
+		<SimpleData name="POP_CNTRY">1085777</SimpleData>
+		<SimpleData name="CURR_TYPE">Peso</SimpleData>
+		<SimpleData name="CURR_CODE">GWP</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">31398.49</SimpleData>
+		<SimpleData name="SQMI">12122.96</SimpleData>
+		<SimpleData name="COLOR_MAP">2</SimpleData>
+		<SimpleData name="Entity">Guinea-Bissau</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-14.8931321397371,12.0620625603662</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">GV</SimpleData>
+		<SimpleData name="GMI_CNTRY">GIN</SimpleData>
+		<SimpleData name="ISO_2DIGIT">GN</SimpleData>
+		<SimpleData name="ISO_3DIGIT">GIN</SimpleData>
+		<SimpleData name="CNTRY_NAME">Guinea</SimpleData>
+		<SimpleData name="LONG_NAME">Guinea</SimpleData>
+		<SimpleData name="SOVEREIGN">Guinea</SimpleData>
+		<SimpleData name="POP_CNTRY">62420070</SimpleData>
+		<SimpleData name="CURR_TYPE">Franc</SimpleData>
+		<SimpleData name="CURR_CODE">GNF</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">245517.03</SimpleData>
+		<SimpleData name="SQMI">94794.12</SimpleData>
+		<SimpleData name="COLOR_MAP">6</SimpleData>
+		<SimpleData name="Entity">Guinea</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-10.9274997035828,10.4301859794369</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">CO</SimpleData>
+		<SimpleData name="GMI_CNTRY">COL</SimpleData>
+		<SimpleData name="ISO_2DIGIT">CO</SimpleData>
+		<SimpleData name="ISO_3DIGIT">COL</SimpleData>
+		<SimpleData name="CNTRY_NAME">Colombia</SimpleData>
+		<SimpleData name="LONG_NAME">Colombia</SimpleData>
+		<SimpleData name="SOVEREIGN">Colombia</SimpleData>
+		<SimpleData name="POP_CNTRY">34414590</SimpleData>
+		<SimpleData name="CURR_TYPE">Peso</SimpleData>
+		<SimpleData name="CURR_CODE">COP</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">1143017.13</SimpleData>
+		<SimpleData name="SQMI">441318.88</SimpleData>
+		<SimpleData name="COLOR_MAP">8</SimpleData>
+		<SimpleData name="Entity">Colombia</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">29.8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.0761337774877,3.90466187358401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">BN</SimpleData>
+		<SimpleData name="GMI_CNTRY">BEN</SimpleData>
+		<SimpleData name="ISO_2DIGIT">BJ</SimpleData>
+		<SimpleData name="ISO_3DIGIT">BEN</SimpleData>
+		<SimpleData name="CNTRY_NAME">Benin</SimpleData>
+		<SimpleData name="LONG_NAME">Benin</SimpleData>
+		<SimpleData name="SOVEREIGN">Benin</SimpleData>
+		<SimpleData name="POP_CNTRY">5175394</SimpleData>
+		<SimpleData name="CURR_TYPE">CFA Franc</SimpleData>
+		<SimpleData name="CURR_CODE">XOF</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">118508.78</SimpleData>
+		<SimpleData name="SQMI">45756.25</SimpleData>
+		<SimpleData name="COLOR_MAP">5</SimpleData>
+		<SimpleData name="Entity">Benin</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.3383213302485,9.63219730922931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">NT</SimpleData>
+		<SimpleData name="GMI_CNTRY">ANT</SimpleData>
+		<SimpleData name="ISO_2DIGIT">AN</SimpleData>
+		<SimpleData name="ISO_3DIGIT">ANT</SimpleData>
+		<SimpleData name="CNTRY_NAME">Netherlands Antilles</SimpleData>
+		<SimpleData name="LONG_NAME">Netherlands Antilles</SimpleData>
+		<SimpleData name="SOVEREIGN">Netherlands</SimpleData>
+		<SimpleData name="POP_CNTRY">191572</SimpleData>
+		<SimpleData name="CURR_TYPE">Euro</SimpleData>
+		<SimpleData name="CURR_CODE">EUR</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">439.73</SimpleData>
+		<SimpleData name="SQMI">169.78</SimpleData>
+		<SimpleData name="COLOR_MAP">4</SimpleData>
+		<SimpleData name="Entity">Netherlands Antilles</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-68.9788743531156,12.2026856554094</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">GJ</SimpleData>
+		<SimpleData name="GMI_CNTRY">GRD</SimpleData>
+		<SimpleData name="ISO_2DIGIT">GD</SimpleData>
+		<SimpleData name="ISO_3DIGIT">GRD</SimpleData>
+		<SimpleData name="CNTRY_NAME">Grenada</SimpleData>
+		<SimpleData name="LONG_NAME">Grenada</SimpleData>
+		<SimpleData name="SOVEREIGN">Grenada</SimpleData>
+		<SimpleData name="POP_CNTRY">95608</SimpleData>
+		<SimpleData name="CURR_TYPE">EC Dollar</SimpleData>
+		<SimpleData name="CURR_CODE">XCD</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">178.96</SimpleData>
+		<SimpleData name="SQMI">69.1</SimpleData>
+		<SimpleData name="COLOR_MAP">5</SimpleData>
+		<SimpleData name="Entity">Grenada</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.6938285827637,12.0910708109538</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">SO</SimpleData>
+		<SimpleData name="GMI_CNTRY">SOM</SimpleData>
+		<SimpleData name="ISO_2DIGIT">SO</SimpleData>
+		<SimpleData name="ISO_3DIGIT">SOM</SimpleData>
+		<SimpleData name="CNTRY_NAME">Somalia</SimpleData>
+		<SimpleData name="LONG_NAME">Somalia</SimpleData>
+		<SimpleData name="SOVEREIGN">Somalia</SimpleData>
+		<SimpleData name="POP_CNTRY">9951515</SimpleData>
+		<SimpleData name="CURR_TYPE">Shilling</SimpleData>
+		<SimpleData name="CURR_CODE">SOS</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">637888.06</SimpleData>
+		<SimpleData name="SQMI">246288.59</SimpleData>
+		<SimpleData name="COLOR_MAP">6</SimpleData>
+		<SimpleData name="Entity">Somalia</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.8483570705205,6.06654583215085</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">CS</SimpleData>
+		<SimpleData name="GMI_CNTRY">CRI</SimpleData>
+		<SimpleData name="ISO_2DIGIT">CR</SimpleData>
+		<SimpleData name="ISO_3DIGIT">CRI</SimpleData>
+		<SimpleData name="CNTRY_NAME">Costa Rica</SimpleData>
+		<SimpleData name="LONG_NAME">Costa Rica</SimpleData>
+		<SimpleData name="SOVEREIGN">Costa Rica</SimpleData>
+		<SimpleData name="POP_CNTRY">3319438</SimpleData>
+		<SimpleData name="CURR_TYPE">Colon</SimpleData>
+		<SimpleData name="CURR_CODE">CRC</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">52894.45</SimpleData>
+		<SimpleData name="SQMI">20422.55</SimpleData>
+		<SimpleData name="COLOR_MAP">2</SimpleData>
+		<SimpleData name="Entity">Costa Rica</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.1820872865083,9.9693491862604</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">VE</SimpleData>
+		<SimpleData name="GMI_CNTRY">VEN</SimpleData>
+		<SimpleData name="ISO_2DIGIT">VE</SimpleData>
+		<SimpleData name="ISO_3DIGIT">VEN</SimpleData>
+		<SimpleData name="CNTRY_NAME">Venezuela</SimpleData>
+		<SimpleData name="LONG_NAME">Venezuela</SimpleData>
+		<SimpleData name="SOVEREIGN">Venezuela</SimpleData>
+		<SimpleData name="POP_CNTRY">19857850</SimpleData>
+		<SimpleData name="CURR_TYPE">Bolivar</SimpleData>
+		<SimpleData name="CURR_CODE">VEB</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">913485.19</SimpleData>
+		<SimpleData name="SQMI">352696.63</SimpleData>
+		<SimpleData name="COLOR_MAP">7</SimpleData>
+		<SimpleData name="Entity">Venezuela</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">1.8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-66.1780470951366,7.12087612436269</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">GH</SimpleData>
+		<SimpleData name="GMI_CNTRY">GHA</SimpleData>
+		<SimpleData name="ISO_2DIGIT">GH</SimpleData>
+		<SimpleData name="ISO_3DIGIT">GHA</SimpleData>
+		<SimpleData name="CNTRY_NAME">Ghana</SimpleData>
+		<SimpleData name="LONG_NAME">Ghana</SimpleData>
+		<SimpleData name="SOVEREIGN">Ghana</SimpleData>
+		<SimpleData name="POP_CNTRY">16698090</SimpleData>
+		<SimpleData name="CURR_TYPE">Cedi</SimpleData>
+		<SimpleData name="CURR_CODE">GHC</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">240310.2</SimpleData>
+		<SimpleData name="SQMI">92783.77</SimpleData>
+		<SimpleData name="COLOR_MAP">3</SimpleData>
+		<SimpleData name="Entity">Ghana</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.21594720110603,7.93321597537577</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">TO</SimpleData>
+		<SimpleData name="GMI_CNTRY">TGO</SimpleData>
+		<SimpleData name="ISO_2DIGIT">TG</SimpleData>
+		<SimpleData name="ISO_3DIGIT">TGO</SimpleData>
+		<SimpleData name="CNTRY_NAME">Togo</SimpleData>
+		<SimpleData name="LONG_NAME">Togo</SimpleData>
+		<SimpleData name="SOVEREIGN">Togo</SimpleData>
+		<SimpleData name="POP_CNTRY">4048365</SimpleData>
+		<SimpleData name="CURR_TYPE">CFA Franc</SimpleData>
+		<SimpleData name="CURR_CODE">XOF</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">56187.42</SimpleData>
+		<SimpleData name="SQMI">21693.96</SimpleData>
+		<SimpleData name="COLOR_MAP">7</SimpleData>
+		<SimpleData name="Entity">Togo</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.96560100270702,8.54212348526946</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">CT</SimpleData>
+		<SimpleData name="GMI_CNTRY">CAF</SimpleData>
+		<SimpleData name="ISO_2DIGIT">CF</SimpleData>
+		<SimpleData name="ISO_3DIGIT">CAF</SimpleData>
+		<SimpleData name="CNTRY_NAME">Central African Republic</SimpleData>
+		<SimpleData name="LONG_NAME">Central African Republic</SimpleData>
+		<SimpleData name="SOVEREIGN">Central African Republic</SimpleData>
+		<SimpleData name="POP_CNTRY">3149545</SimpleData>
+		<SimpleData name="CURR_TYPE">CFA Franc</SimpleData>
+		<SimpleData name="CURR_CODE">XOF</SimpleData>
+		<SimpleData name="LANDLOCKED">Y</SimpleData>
+		<SimpleData name="SQKM">619932.75</SimpleData>
+		<SimpleData name="SQMI">239356.05</SimpleData>
+		<SimpleData name="COLOR_MAP">3</SimpleData>
+		<SimpleData name="Entity">Central African Republic</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>20.4921192105508,6.57166359992524</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">TD</SimpleData>
+		<SimpleData name="GMI_CNTRY">TTO</SimpleData>
+		<SimpleData name="ISO_2DIGIT">TT</SimpleData>
+		<SimpleData name="ISO_3DIGIT">TTO</SimpleData>
+		<SimpleData name="CNTRY_NAME">Trinidad &amp; Tobago</SimpleData>
+		<SimpleData name="LONG_NAME">Trinidad and Tobago</SimpleData>
+		<SimpleData name="SOVEREIGN">Trinidad &amp; Tobago</SimpleData>
+		<SimpleData name="POP_CNTRY">1292000</SimpleData>
+		<SimpleData name="CURR_TYPE">Dollar</SimpleData>
+		<SimpleData name="CURR_CODE">TTD</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">4421.14</SimpleData>
+		<SimpleData name="SQMI">1707</SimpleData>
+		<SimpleData name="COLOR_MAP">1</SimpleData>
+		<SimpleData name="Entity">Trinidad and Tobago</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.2915082489842,10.4331987054369</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">SL</SimpleData>
+		<SimpleData name="GMI_CNTRY">SLE</SimpleData>
+		<SimpleData name="ISO_2DIGIT">SL</SimpleData>
+		<SimpleData name="ISO_3DIGIT">SLE</SimpleData>
+		<SimpleData name="CNTRY_NAME">Sierra Leone</SimpleData>
+		<SimpleData name="LONG_NAME">Sierra Leone</SimpleData>
+		<SimpleData name="SOVEREIGN">Sierra Leone</SimpleData>
+		<SimpleData name="POP_CNTRY">4551746</SimpleData>
+		<SimpleData name="CURR_TYPE">Leone</SimpleData>
+		<SimpleData name="CURR_CODE">SLL</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">73113.2</SimpleData>
+		<SimpleData name="SQMI">28229.01</SimpleData>
+		<SimpleData name="COLOR_MAP">3</SimpleData>
+		<SimpleData name="Entity">Sierra Leone</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-11.7752279889947,8.5505938832379</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">CE</SimpleData>
+		<SimpleData name="GMI_CNTRY">LKA</SimpleData>
+		<SimpleData name="ISO_2DIGIT">LK</SimpleData>
+		<SimpleData name="ISO_3DIGIT">LKA</SimpleData>
+		<SimpleData name="CNTRY_NAME">Sri Lanka</SimpleData>
+		<SimpleData name="LONG_NAME">Sri Lanka</SimpleData>
+		<SimpleData name="SOVEREIGN">Sri Lanka</SimpleData>
+		<SimpleData name="POP_CNTRY">18321920</SimpleData>
+		<SimpleData name="CURR_TYPE">Rupee</SimpleData>
+		<SimpleData name="CURR_CODE">LKR</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">64665.21</SimpleData>
+		<SimpleData name="SQMI">24967.24</SimpleData>
+		<SimpleData name="COLOR_MAP">7</SimpleData>
+		<SimpleData name="Entity">Sri Lanka</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">6.5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.702457311798,7.62589443713597</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">GY</SimpleData>
+		<SimpleData name="GMI_CNTRY">GUY</SimpleData>
+		<SimpleData name="ISO_2DIGIT">GY</SimpleData>
+		<SimpleData name="ISO_3DIGIT">GUY</SimpleData>
+		<SimpleData name="CNTRY_NAME">Guyana</SimpleData>
+		<SimpleData name="LONG_NAME">Guyana</SimpleData>
+		<SimpleData name="SOVEREIGN">Guyana</SimpleData>
+		<SimpleData name="POP_CNTRY">754931</SimpleData>
+		<SimpleData name="CURR_TYPE">Dollar</SimpleData>
+		<SimpleData name="CURR_CODE">GYD</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">210335.67</SimpleData>
+		<SimpleData name="SQMI">81210.62</SimpleData>
+		<SimpleData name="COLOR_MAP">4</SimpleData>
+		<SimpleData name="Entity">Guyana</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.9814433761128,4.77707889682014</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">LI</SimpleData>
+		<SimpleData name="GMI_CNTRY">LBR</SimpleData>
+		<SimpleData name="ISO_2DIGIT">LR</SimpleData>
+		<SimpleData name="ISO_3DIGIT">LBR</SimpleData>
+		<SimpleData name="CNTRY_NAME">Liberia</SimpleData>
+		<SimpleData name="LONG_NAME">Liberia</SimpleData>
+		<SimpleData name="SOVEREIGN">Liberia</SimpleData>
+		<SimpleData name="POP_CNTRY">2902441</SimpleData>
+		<SimpleData name="CURR_TYPE">Dollar</SimpleData>
+		<SimpleData name="CURR_CODE">LRD</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">95658.84</SimpleData>
+		<SimpleData name="SQMI">36933.88</SimpleData>
+		<SimpleData name="COLOR_MAP">5</SimpleData>
+		<SimpleData name="Entity">Liberia</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-9.31068254536958,6.44204506945533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">PM</SimpleData>
+		<SimpleData name="GMI_CNTRY">PAN</SimpleData>
+		<SimpleData name="ISO_2DIGIT">PA</SimpleData>
+		<SimpleData name="ISO_3DIGIT">PAN</SimpleData>
+		<SimpleData name="CNTRY_NAME">Panama</SimpleData>
+		<SimpleData name="LONG_NAME">Panama</SimpleData>
+		<SimpleData name="SOVEREIGN">Panama</SimpleData>
+		<SimpleData name="POP_CNTRY">2562045</SimpleData>
+		<SimpleData name="CURR_TYPE">Balboa</SimpleData>
+		<SimpleData name="CURR_CODE">PAB</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">73680.19</SimpleData>
+		<SimpleData name="SQMI">28447.92</SimpleData>
+		<SimpleData name="COLOR_MAP">6</SimpleData>
+		<SimpleData name="Entity">Panama</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.1474675796671,8.50846863495218</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">RM</SimpleData>
+		<SimpleData name="GMI_CNTRY">MHL</SimpleData>
+		<SimpleData name="ISO_2DIGIT">MH</SimpleData>
+		<SimpleData name="ISO_3DIGIT">MHL</SimpleData>
+		<SimpleData name="CNTRY_NAME">Marshall Is.</SimpleData>
+		<SimpleData name="LONG_NAME">Marshall Islands</SimpleData>
+		<SimpleData name="SOVEREIGN">Marshall Is.</SimpleData>
+		<SimpleData name="POP_CNTRY">53363</SimpleData>
+		<SimpleData name="CURR_TYPE">US Dollar</SimpleData>
+		<SimpleData name="CURR_CODE">USD</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">12.2</SimpleData>
+		<SimpleData name="SQMI">4.71</SimpleData>
+		<SimpleData name="COLOR_MAP">5</SimpleData>
+		<SimpleData name="Entity">Marshall Islands</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>168.724214562899,7.30844167487542</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">IN</SimpleData>
+		<SimpleData name="GMI_CNTRY">IND</SimpleData>
+		<SimpleData name="ISO_2DIGIT">IN</SimpleData>
+		<SimpleData name="ISO_3DIGIT">IND</SimpleData>
+		<SimpleData name="CNTRY_NAME">India</SimpleData>
+		<SimpleData name="LONG_NAME">India</SimpleData>
+		<SimpleData name="SOVEREIGN">India</SimpleData>
+		<SimpleData name="POP_CNTRY">894608700</SimpleData>
+		<SimpleData name="CURR_TYPE">Rupee</SimpleData>
+		<SimpleData name="CURR_CODE">INR</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">3153009.5</SimpleData>
+		<SimpleData name="SQMI">1217377.13</SimpleData>
+		<SimpleData name="COLOR_MAP">5</SimpleData>
+		<SimpleData name="Entity">India</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">122.3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.6110999979262,22.8893555089579</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">NS</SimpleData>
+		<SimpleData name="GMI_CNTRY">SUR</SimpleData>
+		<SimpleData name="ISO_2DIGIT">SR</SimpleData>
+		<SimpleData name="ISO_3DIGIT">SUR</SimpleData>
+		<SimpleData name="CNTRY_NAME">Suriname</SimpleData>
+		<SimpleData name="LONG_NAME">Suriname</SimpleData>
+		<SimpleData name="SOVEREIGN">Suriname</SimpleData>
+		<SimpleData name="POP_CNTRY">428026</SimpleData>
+		<SimpleData name="CURR_TYPE">Guilder</SimpleData>
+		<SimpleData name="CURR_CODE">SRG</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">143154.78</SimpleData>
+		<SimpleData name="SQMI">55272.07</SimpleData>
+		<SimpleData name="COLOR_MAP">3</SimpleData>
+		<SimpleData name="Entity">Suriname</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.9190752632954,4.11600928958838</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">FG</SimpleData>
+		<SimpleData name="GMI_CNTRY">GUF</SimpleData>
+		<SimpleData name="ISO_2DIGIT">GF</SimpleData>
+		<SimpleData name="ISO_3DIGIT">GUF</SimpleData>
+		<SimpleData name="CNTRY_NAME">French Guiana</SimpleData>
+		<SimpleData name="LONG_NAME">French Guiana</SimpleData>
+		<SimpleData name="SOVEREIGN">France</SimpleData>
+		<SimpleData name="POP_CNTRY">130219</SimpleData>
+		<SimpleData name="CURR_TYPE">Euro</SimpleData>
+		<SimpleData name="CURR_CODE">EUR</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">83726.18</SimpleData>
+		<SimpleData name="SQMI">32326.68</SimpleData>
+		<SimpleData name="COLOR_MAP">5</SimpleData>
+		<SimpleData name="Entity">French Guiana</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.2456828057527,3.92861922169842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">IV</SimpleData>
+		<SimpleData name="GMI_CNTRY">CIV</SimpleData>
+		<SimpleData name="ISO_2DIGIT">CI</SimpleData>
+		<SimpleData name="ISO_3DIGIT">CIV</SimpleData>
+		<SimpleData name="CNTRY_NAME">Cote d'Ivory</SimpleData>
+		<SimpleData name="LONG_NAME">Cote d'Ivoire</SimpleData>
+		<SimpleData name="SOVEREIGN">Cote d'Ivory</SimpleData>
+		<SimpleData name="POP_CNTRY">13498860</SimpleData>
+		<SimpleData name="CURR_TYPE">CFA Franc</SimpleData>
+		<SimpleData name="CURR_CODE">XOF</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">321084.97</SimpleData>
+		<SimpleData name="SQMI">123970.92</SimpleData>
+		<SimpleData name="COLOR_MAP">8</SimpleData>
+		<SimpleData name="Entity">Cote d'Ivoire</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.5641107154733,7.63130977872835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">BX</SimpleData>
+		<SimpleData name="GMI_CNTRY">BRN</SimpleData>
+		<SimpleData name="ISO_2DIGIT">BN</SimpleData>
+		<SimpleData name="ISO_3DIGIT">BRN</SimpleData>
+		<SimpleData name="CNTRY_NAME">Brunei</SimpleData>
+		<SimpleData name="LONG_NAME">Brunei</SimpleData>
+		<SimpleData name="SOVEREIGN">Brunei</SimpleData>
+		<SimpleData name="POP_CNTRY">281614</SimpleData>
+		<SimpleData name="CURR_TYPE">Dollar</SimpleData>
+		<SimpleData name="CURR_CODE">BND</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">6077.5</SimpleData>
+		<SimpleData name="SQMI">2346.52</SimpleData>
+		<SimpleData name="COLOR_MAP">2</SimpleData>
+		<SimpleData name="Entity">Brunei</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.701455286318,4.54105494429533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">KE</SimpleData>
+		<SimpleData name="GMI_CNTRY">KEN</SimpleData>
+		<SimpleData name="ISO_2DIGIT">KE</SimpleData>
+		<SimpleData name="ISO_3DIGIT">KEN</SimpleData>
+		<SimpleData name="CNTRY_NAME">Kenya</SimpleData>
+		<SimpleData name="LONG_NAME">Kenya</SimpleData>
+		<SimpleData name="SOVEREIGN">Kenya</SimpleData>
+		<SimpleData name="POP_CNTRY">25835250</SimpleData>
+		<SimpleData name="CURR_TYPE">Schilling</SimpleData>
+		<SimpleData name="CURR_CODE">KES</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">584683.38</SimpleData>
+		<SimpleData name="SQMI">225746.27</SimpleData>
+		<SimpleData name="COLOR_MAP">1</SimpleData>
+		<SimpleData name="Entity">Kenya</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.8494254195766,0.517086021250898</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">UG</SimpleData>
+		<SimpleData name="GMI_CNTRY">UGA</SimpleData>
+		<SimpleData name="ISO_2DIGIT">UG</SimpleData>
+		<SimpleData name="ISO_3DIGIT">UGA</SimpleData>
+		<SimpleData name="CNTRY_NAME">Uganda</SimpleData>
+		<SimpleData name="LONG_NAME">Uganda</SimpleData>
+		<SimpleData name="SOVEREIGN">Uganda</SimpleData>
+		<SimpleData name="POP_CNTRY">18144360</SimpleData>
+		<SimpleData name="CURR_TYPE">Schilling</SimpleData>
+		<SimpleData name="CURR_CODE">UGX</SimpleData>
+		<SimpleData name="LANDLOCKED">Y</SimpleData>
+		<SimpleData name="SQKM">245630.75</SimpleData>
+		<SimpleData name="SQMI">94838.05</SimpleData>
+		<SimpleData name="COLOR_MAP">7</SimpleData>
+		<SimpleData name="Entity">Uganda</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.378193568437,1.28185279635997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">MV</SimpleData>
+		<SimpleData name="GMI_CNTRY">MDV</SimpleData>
+		<SimpleData name="ISO_2DIGIT">MV</SimpleData>
+		<SimpleData name="ISO_3DIGIT">MDV</SimpleData>
+		<SimpleData name="CNTRY_NAME">Maldives</SimpleData>
+		<SimpleData name="LONG_NAME">Maldives</SimpleData>
+		<SimpleData name="SOVEREIGN">Maldives</SimpleData>
+		<SimpleData name="POP_CNTRY">11511</SimpleData>
+		<SimpleData name="CURR_TYPE">Rufiyaa</SimpleData>
+		<SimpleData name="CURR_CODE">MVR</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">0.25</SimpleData>
+		<SimpleData name="SQMI">0.1</SimpleData>
+		<SimpleData name="COLOR_MAP">4</SimpleData>
+		<SimpleData name="Entity">Maldives</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.5831146240234,2.95956285794576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">MY</SimpleData>
+		<SimpleData name="GMI_CNTRY">MYS</SimpleData>
+		<SimpleData name="ISO_2DIGIT">MY</SimpleData>
+		<SimpleData name="ISO_3DIGIT">MYS</SimpleData>
+		<SimpleData name="CNTRY_NAME">Malaysia</SimpleData>
+		<SimpleData name="LONG_NAME">Malaysia</SimpleData>
+		<SimpleData name="SOVEREIGN">Malaysia</SimpleData>
+		<SimpleData name="POP_CNTRY">19626380</SimpleData>
+		<SimpleData name="CURR_TYPE">Ringgit</SimpleData>
+		<SimpleData name="CURR_CODE">MYR</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">328536.47</SimpleData>
+		<SimpleData name="SQMI">126847.95</SimpleData>
+		<SimpleData name="COLOR_MAP">6</SimpleData>
+		<SimpleData name="Entity">Malaysia</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>109.715783878684,3.79323039803461</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">GB</SimpleData>
+		<SimpleData name="GMI_CNTRY">GAB</SimpleData>
+		<SimpleData name="ISO_2DIGIT">GA</SimpleData>
+		<SimpleData name="ISO_3DIGIT">GAB</SimpleData>
+		<SimpleData name="CNTRY_NAME">Gabon</SimpleData>
+		<SimpleData name="LONG_NAME">Gabon</SimpleData>
+		<SimpleData name="SOVEREIGN">Gabon</SimpleData>
+		<SimpleData name="POP_CNTRY">1561195</SimpleData>
+		<SimpleData name="CURR_TYPE">CFA Franc</SimpleData>
+		<SimpleData name="CURR_CODE">XOF</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">262970.88</SimpleData>
+		<SimpleData name="SQMI">101533.06</SimpleData>
+		<SimpleData name="COLOR_MAP">1</SimpleData>
+		<SimpleData name="Entity">Gabon</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.7930431759056,-0.597507626393697</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">KR</SimpleData>
+		<SimpleData name="GMI_CNTRY">KIR</SimpleData>
+		<SimpleData name="ISO_2DIGIT">KI</SimpleData>
+		<SimpleData name="ISO_3DIGIT">KIR</SimpleData>
+		<SimpleData name="CNTRY_NAME">Kiribati</SimpleData>
+		<SimpleData name="LONG_NAME">Kiribati</SimpleData>
+		<SimpleData name="SOVEREIGN">Kiribati</SimpleData>
+		<SimpleData name="POP_CNTRY">77000</SimpleData>
+		<SimpleData name="CURR_TYPE">Australia Dollar</SimpleData>
+		<SimpleData name="CURR_CODE">AUD</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">266.56</SimpleData>
+		<SimpleData name="SQMI">102.92</SimpleData>
+		<SimpleData name="COLOR_MAP">4</SimpleData>
+		<SimpleData name="Entity">Kiribati</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.404073079427,1.82489192485809</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">ID</SimpleData>
+		<SimpleData name="GMI_CNTRY">IDN</SimpleData>
+		<SimpleData name="ISO_2DIGIT">ID</SimpleData>
+		<SimpleData name="ISO_3DIGIT">IDN</SimpleData>
+		<SimpleData name="CNTRY_NAME">Indonesia</SimpleData>
+		<SimpleData name="LONG_NAME">Indonesia</SimpleData>
+		<SimpleData name="SOVEREIGN">Indonesia</SimpleData>
+		<SimpleData name="POP_CNTRY">188474200</SimpleData>
+		<SimpleData name="CURR_TYPE">Rupiah</SimpleData>
+		<SimpleData name="CURR_CODE">IDR</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">1847033</SimpleData>
+		<SimpleData name="SQMI">713139.44</SimpleData>
+		<SimpleData name="COLOR_MAP">1</SimpleData>
+		<SimpleData name="Entity">Indonesia</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>117.257638655328,-2.21665029429732</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">BR</SimpleData>
+		<SimpleData name="GMI_CNTRY">BRA</SimpleData>
+		<SimpleData name="ISO_2DIGIT">BR</SimpleData>
+		<SimpleData name="ISO_3DIGIT">BRA</SimpleData>
+		<SimpleData name="CNTRY_NAME">Brazil</SimpleData>
+		<SimpleData name="LONG_NAME">Brazil</SimpleData>
+		<SimpleData name="SOVEREIGN">Brazil</SimpleData>
+		<SimpleData name="POP_CNTRY">151525400</SimpleData>
+		<SimpleData name="CURR_TYPE">Cruzeiro Real</SimpleData>
+		<SimpleData name="CURR_CODE">BRL</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">8493132</SimpleData>
+		<SimpleData name="SQMI">3279198.25</SimpleData>
+		<SimpleData name="COLOR_MAP">6</SimpleData>
+		<SimpleData name="Entity">Brazil</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">37.8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.0972893734174,-10.7843065500406</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">PE</SimpleData>
+		<SimpleData name="GMI_CNTRY">PER</SimpleData>
+		<SimpleData name="ISO_2DIGIT">PE</SimpleData>
+		<SimpleData name="ISO_3DIGIT">PER</SimpleData>
+		<SimpleData name="CNTRY_NAME">Peru</SimpleData>
+		<SimpleData name="LONG_NAME">Peru</SimpleData>
+		<SimpleData name="SOVEREIGN">Peru</SimpleData>
+		<SimpleData name="POP_CNTRY">24496400</SimpleData>
+		<SimpleData name="CURR_TYPE">Nuevo Sol</SimpleData>
+		<SimpleData name="CURR_CODE">PEN</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">1296605.13</SimpleData>
+		<SimpleData name="SQMI">500619.19</SimpleData>
+		<SimpleData name="COLOR_MAP">1</SimpleData>
+		<SimpleData name="Entity">Peru</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">43.8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.3803165914436,-9.17195020811836</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">RW</SimpleData>
+		<SimpleData name="GMI_CNTRY">RWA</SimpleData>
+		<SimpleData name="ISO_2DIGIT">RW</SimpleData>
+		<SimpleData name="ISO_3DIGIT">RWA</SimpleData>
+		<SimpleData name="CNTRY_NAME">Rwanda</SimpleData>
+		<SimpleData name="LONG_NAME">Rwanda</SimpleData>
+		<SimpleData name="SOVEREIGN">Rwanda</SimpleData>
+		<SimpleData name="POP_CNTRY">7934396</SimpleData>
+		<SimpleData name="CURR_TYPE">Franc</SimpleData>
+		<SimpleData name="CURR_CODE">RWF</SimpleData>
+		<SimpleData name="LANDLOCKED">Y</SimpleData>
+		<SimpleData name="SQKM">25036.19</SimpleData>
+		<SimpleData name="SQMI">9666.47</SimpleData>
+		<SimpleData name="COLOR_MAP">2</SimpleData>
+		<SimpleData name="Entity">Rwanda</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.9387968788156,-1.99134601200222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">BY</SimpleData>
+		<SimpleData name="GMI_CNTRY">BDI</SimpleData>
+		<SimpleData name="ISO_2DIGIT">BI</SimpleData>
+		<SimpleData name="ISO_3DIGIT">BDI</SimpleData>
+		<SimpleData name="CNTRY_NAME">Burundi</SimpleData>
+		<SimpleData name="LONG_NAME">Burundi</SimpleData>
+		<SimpleData name="SOVEREIGN">Burundi</SimpleData>
+		<SimpleData name="POP_CNTRY">6011039</SimpleData>
+		<SimpleData name="CURR_TYPE">Franc</SimpleData>
+		<SimpleData name="CURR_CODE">BIF</SimpleData>
+		<SimpleData name="LANDLOCKED">Y</SimpleData>
+		<SimpleData name="SQKM">27098</SimpleData>
+		<SimpleData name="SQMI">10462.54</SimpleData>
+		<SimpleData name="COLOR_MAP">3</SimpleData>
+		<SimpleData name="Entity">Burundi</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.9017544530102,-3.34033831563285</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">EC</SimpleData>
+		<SimpleData name="GMI_CNTRY">ECU</SimpleData>
+		<SimpleData name="ISO_2DIGIT">EC</SimpleData>
+		<SimpleData name="ISO_3DIGIT">ECU</SimpleData>
+		<SimpleData name="CNTRY_NAME">Ecuador</SimpleData>
+		<SimpleData name="LONG_NAME">Ecuador</SimpleData>
+		<SimpleData name="SOVEREIGN">Ecuador</SimpleData>
+		<SimpleData name="POP_CNTRY">10541820</SimpleData>
+		<SimpleData name="CURR_TYPE">Sucre</SimpleData>
+		<SimpleData name="CURR_CODE">ECS</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">254766.78</SimpleData>
+		<SimpleData name="SQMI">98365.46</SimpleData>
+		<SimpleData name="COLOR_MAP">5</SimpleData>
+		<SimpleData name="Entity">Ecuador</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">46</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6693308042804,-1.43300827931278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">SE</SimpleData>
+		<SimpleData name="GMI_CNTRY">SYC</SimpleData>
+		<SimpleData name="ISO_2DIGIT">SC</SimpleData>
+		<SimpleData name="ISO_3DIGIT">SYC</SimpleData>
+		<SimpleData name="CNTRY_NAME">Seychelles</SimpleData>
+		<SimpleData name="LONG_NAME">Seychelles</SimpleData>
+		<SimpleData name="SOVEREIGN">Seychelles</SimpleData>
+		<SimpleData name="POP_CNTRY">73000</SimpleData>
+		<SimpleData name="CURR_TYPE">Rupee</SimpleData>
+		<SimpleData name="CURR_CODE">SCR</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">222.19</SimpleData>
+		<SimpleData name="SQMI">85.79</SimpleData>
+		<SimpleData name="COLOR_MAP">6</SimpleData>
+		<SimpleData name="Entity">Seychelles</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>55.4722800452161,-4.65868576669988</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">AO</SimpleData>
+		<SimpleData name="GMI_CNTRY">AGO</SimpleData>
+		<SimpleData name="ISO_2DIGIT">AO</SimpleData>
+		<SimpleData name="ISO_3DIGIT">AGO</SimpleData>
+		<SimpleData name="CNTRY_NAME">Angola</SimpleData>
+		<SimpleData name="LONG_NAME">Angola</SimpleData>
+		<SimpleData name="SOVEREIGN">Angola</SimpleData>
+		<SimpleData name="POP_CNTRY">11527260</SimpleData>
+		<SimpleData name="CURR_TYPE">New Kwanza</SimpleData>
+		<SimpleData name="CURR_CODE">AON</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">1252934.88</SimpleData>
+		<SimpleData name="SQMI">483758.22</SimpleData>
+		<SimpleData name="COLOR_MAP">1</SimpleData>
+		<SimpleData name="Entity">Angola</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>17.5379654426636,-12.2994772211426</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">ZA</SimpleData>
+		<SimpleData name="GMI_CNTRY">ZMB</SimpleData>
+		<SimpleData name="ISO_2DIGIT">ZM</SimpleData>
+		<SimpleData name="ISO_3DIGIT">ZMB</SimpleData>
+		<SimpleData name="CNTRY_NAME">Zambia</SimpleData>
+		<SimpleData name="LONG_NAME">Zambia</SimpleData>
+		<SimpleData name="SOVEREIGN">Zambia</SimpleData>
+		<SimpleData name="POP_CNTRY">8778681</SimpleData>
+		<SimpleData name="CURR_TYPE">Kwacha</SimpleData>
+		<SimpleData name="CURR_CODE">ZMK</SimpleData>
+		<SimpleData name="LANDLOCKED">Y</SimpleData>
+		<SimpleData name="SQKM">753941.38</SimpleData>
+		<SimpleData name="SQMI">291096.78</SimpleData>
+		<SimpleData name="COLOR_MAP">5</SimpleData>
+		<SimpleData name="Entity">Zambia</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.7882358875452,-13.4606612616175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">TV</SimpleData>
+		<SimpleData name="GMI_CNTRY">TUV</SimpleData>
+		<SimpleData name="ISO_2DIGIT">TV</SimpleData>
+		<SimpleData name="ISO_3DIGIT">TUV</SimpleData>
+		<SimpleData name="CNTRY_NAME">Tuvalu</SimpleData>
+		<SimpleData name="LONG_NAME">Tuvalu</SimpleData>
+		<SimpleData name="SOVEREIGN">Tuvalu</SimpleData>
+		<SimpleData name="POP_CNTRY">13000</SimpleData>
+		<SimpleData name="CURR_TYPE">Australia Dollar</SimpleData>
+		<SimpleData name="CURR_CODE">AUD</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">17.49</SimpleData>
+		<SimpleData name="SQMI">6.75</SimpleData>
+		<SimpleData name="COLOR_MAP">3</SimpleData>
+		<SimpleData name="Entity">Tuvalu</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>179.217507554655,-8.51519375805178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">PP</SimpleData>
+		<SimpleData name="GMI_CNTRY">PNG</SimpleData>
+		<SimpleData name="ISO_2DIGIT">PG</SimpleData>
+		<SimpleData name="ISO_3DIGIT">PNG</SimpleData>
+		<SimpleData name="CNTRY_NAME">Papua New Guinea</SimpleData>
+		<SimpleData name="LONG_NAME">Papua New Guinea</SimpleData>
+		<SimpleData name="SOVEREIGN">Papua New Guinea</SimpleData>
+		<SimpleData name="POP_CNTRY">4039033</SimpleData>
+		<SimpleData name="CURR_TYPE">Kina</SimpleData>
+		<SimpleData name="CURR_CODE">PGK</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">458665.63</SimpleData>
+		<SimpleData name="SQMI">177090.78</SimpleData>
+		<SimpleData name="COLOR_MAP">8</SimpleData>
+		<SimpleData name="Entity">Papua New Guinea</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">23.8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.179717686454,-6.46721014398682</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">BP</SimpleData>
+		<SimpleData name="GMI_CNTRY">SLB</SimpleData>
+		<SimpleData name="ISO_2DIGIT">SB</SimpleData>
+		<SimpleData name="ISO_3DIGIT">SLB</SimpleData>
+		<SimpleData name="CNTRY_NAME">Solomon Is.</SimpleData>
+		<SimpleData name="LONG_NAME">Solomon Islands</SimpleData>
+		<SimpleData name="SOVEREIGN">Solomon Is.</SimpleData>
+		<SimpleData name="POP_CNTRY">366000</SimpleData>
+		<SimpleData name="CURR_TYPE">Dollar</SimpleData>
+		<SimpleData name="CURR_CODE">SBD</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">21573.21</SimpleData>
+		<SimpleData name="SQMI">8329.42</SimpleData>
+		<SimpleData name="COLOR_MAP">5</SimpleData>
+		<SimpleData name="Entity">Solomon Islands</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>159.714336338486,-8.95683116240444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">BL</SimpleData>
+		<SimpleData name="GMI_CNTRY">BOL</SimpleData>
+		<SimpleData name="ISO_2DIGIT">BO</SimpleData>
+		<SimpleData name="ISO_3DIGIT">BOL</SimpleData>
+		<SimpleData name="CNTRY_NAME">Bolivia</SimpleData>
+		<SimpleData name="LONG_NAME">Bolivia</SimpleData>
+		<SimpleData name="SOVEREIGN">Bolivia</SimpleData>
+		<SimpleData name="POP_CNTRY">7648315</SimpleData>
+		<SimpleData name="CURR_TYPE">Boliviano</SimpleData>
+		<SimpleData name="CURR_CODE">BOB</SimpleData>
+		<SimpleData name="LANDLOCKED">Y</SimpleData>
+		<SimpleData name="SQKM">1090564</SimpleData>
+		<SimpleData name="SQMI">421066.75</SimpleData>
+		<SimpleData name="COLOR_MAP">2</SimpleData>
+		<SimpleData name="Entity">Bolivia</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">14.9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.6619190313112,-16.7238522568587</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">MZ</SimpleData>
+		<SimpleData name="GMI_CNTRY">MOZ</SimpleData>
+		<SimpleData name="ISO_2DIGIT">MZ</SimpleData>
+		<SimpleData name="ISO_3DIGIT">MOZ</SimpleData>
+		<SimpleData name="CNTRY_NAME">Mozambique</SimpleData>
+		<SimpleData name="LONG_NAME">Mozambique</SimpleData>
+		<SimpleData name="SOVEREIGN">Mozambique</SimpleData>
+		<SimpleData name="POP_CNTRY">16604660</SimpleData>
+		<SimpleData name="CURR_TYPE">Metical</SimpleData>
+		<SimpleData name="CURR_CODE">MZM</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">793979.56</SimpleData>
+		<SimpleData name="SQMI">306555.53</SimpleData>
+		<SimpleData name="COLOR_MAP">8</SimpleData>
+		<SimpleData name="Entity">Mozambique</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">8.7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5379898650363,-17.2858073814199</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">CN</SimpleData>
+		<SimpleData name="GMI_CNTRY">COM</SimpleData>
+		<SimpleData name="ISO_2DIGIT">KM</SimpleData>
+		<SimpleData name="ISO_3DIGIT">COM</SimpleData>
+		<SimpleData name="CNTRY_NAME">Comoros</SimpleData>
+		<SimpleData name="LONG_NAME">Comoros</SimpleData>
+		<SimpleData name="SOVEREIGN">Comoros</SimpleData>
+		<SimpleData name="POP_CNTRY">634656</SimpleData>
+		<SimpleData name="CURR_TYPE">Franc</SimpleData>
+		<SimpleData name="CURR_CODE">KMF</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">1118.58</SimpleData>
+		<SimpleData name="SQMI">431.88</SimpleData>
+		<SimpleData name="COLOR_MAP">7</SimpleData>
+		<SimpleData name="Entity">Comoros</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>43.8065208838736,-11.923719820063</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">MA</SimpleData>
+		<SimpleData name="GMI_CNTRY">MDG</SimpleData>
+		<SimpleData name="ISO_2DIGIT">MG</SimpleData>
+		<SimpleData name="ISO_3DIGIT">MDG</SimpleData>
+		<SimpleData name="CNTRY_NAME">Madagascar</SimpleData>
+		<SimpleData name="LONG_NAME">Madagascar</SimpleData>
+		<SimpleData name="SOVEREIGN">Madagascar</SimpleData>
+		<SimpleData name="POP_CNTRY">13046690</SimpleData>
+		<SimpleData name="CURR_TYPE">Franc</SimpleData>
+		<SimpleData name="CURR_CODE">MGF</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">591712.5</SimpleData>
+		<SimpleData name="SQMI">228460.2</SimpleData>
+		<SimpleData name="COLOR_MAP">3</SimpleData>
+		<SimpleData name="Entity">Madagascar</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>46.7050711938121,-19.3944246896055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">MI</SimpleData>
+		<SimpleData name="GMI_CNTRY">MWI</SimpleData>
+		<SimpleData name="ISO_2DIGIT">MW</SimpleData>
+		<SimpleData name="ISO_3DIGIT">MWI</SimpleData>
+		<SimpleData name="CNTRY_NAME">Malawi</SimpleData>
+		<SimpleData name="LONG_NAME">Malawi</SimpleData>
+		<SimpleData name="SOVEREIGN">Malawi</SimpleData>
+		<SimpleData name="POP_CNTRY">10660480</SimpleData>
+		<SimpleData name="CURR_TYPE">Kwacha</SimpleData>
+		<SimpleData name="CURR_CODE">MWK</SimpleData>
+		<SimpleData name="LANDLOCKED">Y</SimpleData>
+		<SimpleData name="SQKM">117440.33</SimpleData>
+		<SimpleData name="SQMI">45343.7</SimpleData>
+		<SimpleData name="COLOR_MAP">2</SimpleData>
+		<SimpleData name="Entity">Malawi</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.2883344152683,-13.1971026354071</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">WS</SimpleData>
+		<SimpleData name="GMI_CNTRY">WSM</SimpleData>
+		<SimpleData name="ISO_2DIGIT">WS</SimpleData>
+		<SimpleData name="ISO_3DIGIT">WSM</SimpleData>
+		<SimpleData name="CNTRY_NAME">Samoa</SimpleData>
+		<SimpleData name="LONG_NAME">Samoa</SimpleData>
+		<SimpleData name="SOVEREIGN">Samoa</SimpleData>
+		<SimpleData name="POP_CNTRY">159000</SimpleData>
+		<SimpleData name="CURR_TYPE">Tala</SimpleData>
+		<SimpleData name="CURR_CODE">WST</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">2022.66</SimpleData>
+		<SimpleData name="SQMI">780.95</SimpleData>
+		<SimpleData name="COLOR_MAP">8</SimpleData>
+		<SimpleData name="Entity">Samoa</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-172.278781265348,-13.7132195484042</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">WF</SimpleData>
+		<SimpleData name="GMI_CNTRY">WLF</SimpleData>
+		<SimpleData name="ISO_2DIGIT">WF</SimpleData>
+		<SimpleData name="ISO_3DIGIT">WLF</SimpleData>
+		<SimpleData name="CNTRY_NAME">Wallis &amp; Futuna</SimpleData>
+		<SimpleData name="LONG_NAME">Wallis and Futuna</SimpleData>
+		<SimpleData name="SOVEREIGN">France</SimpleData>
+		<SimpleData name="POP_CNTRY">14000</SimpleData>
+		<SimpleData name="CURR_TYPE">Euro</SimpleData>
+		<SimpleData name="CURR_CODE">EUR</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">55.2</SimpleData>
+		<SimpleData name="SQMI">21.31</SimpleData>
+		<SimpleData name="COLOR_MAP">5</SimpleData>
+		<SimpleData name="Entity">Wallis and Futuna</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-178.125503961756,-14.2837315307732</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">AQ</SimpleData>
+		<SimpleData name="GMI_CNTRY">ASM</SimpleData>
+		<SimpleData name="ISO_2DIGIT">AS</SimpleData>
+		<SimpleData name="ISO_3DIGIT">ASM</SimpleData>
+		<SimpleData name="CNTRY_NAME">American Samoa</SimpleData>
+		<SimpleData name="LONG_NAME">American Samoa</SimpleData>
+		<SimpleData name="SOVEREIGN">United States</SimpleData>
+		<SimpleData name="POP_CNTRY">53000</SimpleData>
+		<SimpleData name="CURR_TYPE">US Dollar</SimpleData>
+		<SimpleData name="CURR_CODE">USD</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">84.2</SimpleData>
+		<SimpleData name="SQMI">32.51</SimpleData>
+		<SimpleData name="COLOR_MAP">2</SimpleData>
+		<SimpleData name="Entity">American Samoa</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-170.734853108724,-14.3219060897827</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">ZI</SimpleData>
+		<SimpleData name="GMI_CNTRY">ZWE</SimpleData>
+		<SimpleData name="ISO_2DIGIT">ZW</SimpleData>
+		<SimpleData name="ISO_3DIGIT">ZWE</SimpleData>
+		<SimpleData name="CNTRY_NAME">Zimbabwe</SimpleData>
+		<SimpleData name="LONG_NAME">Zimbabwe</SimpleData>
+		<SimpleData name="SOVEREIGN">Zimbabwe</SimpleData>
+		<SimpleData name="POP_CNTRY">11106690</SimpleData>
+		<SimpleData name="CURR_TYPE">Dollar</SimpleData>
+		<SimpleData name="CURR_CODE">ZWD</SimpleData>
+		<SimpleData name="LANDLOCKED">Y</SimpleData>
+		<SimpleData name="SQKM">391456.09</SimpleData>
+		<SimpleData name="SQMI">151141.2</SimpleData>
+		<SimpleData name="COLOR_MAP">4</SimpleData>
+		<SimpleData name="Entity">Zimbabwe</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.8731855226646,-19.0193835546096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">WA</SimpleData>
+		<SimpleData name="GMI_CNTRY">NAM</SimpleData>
+		<SimpleData name="ISO_2DIGIT">NA</SimpleData>
+		<SimpleData name="ISO_3DIGIT">NAM</SimpleData>
+		<SimpleData name="CNTRY_NAME">Namibia</SimpleData>
+		<SimpleData name="LONG_NAME">Namibia</SimpleData>
+		<SimpleData name="SOVEREIGN">Namibia</SimpleData>
+		<SimpleData name="POP_CNTRY">1575611</SimpleData>
+		<SimpleData name="CURR_TYPE">Dollar</SimpleData>
+		<SimpleData name="CURR_CODE">NAD</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">827896.88</SimpleData>
+		<SimpleData name="SQMI">319651</SimpleData>
+		<SimpleData name="COLOR_MAP">3</SimpleData>
+		<SimpleData name="Entity">Namibia</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>17.2185760524873,-22.138681674681</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">FJ</SimpleData>
+		<SimpleData name="GMI_CNTRY">FJI</SimpleData>
+		<SimpleData name="ISO_2DIGIT">FJ</SimpleData>
+		<SimpleData name="ISO_3DIGIT">FJI</SimpleData>
+		<SimpleData name="CNTRY_NAME">Fiji</SimpleData>
+		<SimpleData name="LONG_NAME">Fiji</SimpleData>
+		<SimpleData name="SOVEREIGN">Fiji</SimpleData>
+		<SimpleData name="POP_CNTRY">755000</SimpleData>
+		<SimpleData name="CURR_TYPE">Dollar</SimpleData>
+		<SimpleData name="CURR_CODE">FJD</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">17815.56</SimpleData>
+		<SimpleData name="SQMI">6878.59</SimpleData>
+		<SimpleData name="COLOR_MAP">8</SimpleData>
+		<SimpleData name="Entity">Fiji</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>178.44334137543,-17.4457726194717</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">FP</SimpleData>
+		<SimpleData name="GMI_CNTRY">PYF</SimpleData>
+		<SimpleData name="ISO_2DIGIT">PF</SimpleData>
+		<SimpleData name="ISO_3DIGIT">PYF</SimpleData>
+		<SimpleData name="CNTRY_NAME">French Polynesia</SimpleData>
+		<SimpleData name="LONG_NAME">French Polynesia</SimpleData>
+		<SimpleData name="SOVEREIGN">France</SimpleData>
+		<SimpleData name="POP_CNTRY">217000</SimpleData>
+		<SimpleData name="CURR_TYPE">Euro</SimpleData>
+		<SimpleData name="CURR_CODE">EUR</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">909.84</SimpleData>
+		<SimpleData name="SQMI">351.29</SimpleData>
+		<SimpleData name="COLOR_MAP">4</SimpleData>
+		<SimpleData name="Entity">French Polynesia</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">1.3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.420108566469,-17.674561329166</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">BC</SimpleData>
+		<SimpleData name="GMI_CNTRY">BWA</SimpleData>
+		<SimpleData name="ISO_2DIGIT">BW</SimpleData>
+		<SimpleData name="ISO_3DIGIT">BWA</SimpleData>
+		<SimpleData name="CNTRY_NAME">Botswana</SimpleData>
+		<SimpleData name="LONG_NAME">Botswana</SimpleData>
+		<SimpleData name="SOVEREIGN">Botswana</SimpleData>
+		<SimpleData name="POP_CNTRY">1446623</SimpleData>
+		<SimpleData name="CURR_TYPE">Pula</SimpleData>
+		<SimpleData name="CURR_CODE">BWP</SimpleData>
+		<SimpleData name="LANDLOCKED">Y</SimpleData>
+		<SimpleData name="SQKM">579782.88</SimpleData>
+		<SimpleData name="SQMI">223854.17</SimpleData>
+		<SimpleData name="COLOR_MAP">2</SimpleData>
+		<SimpleData name="Entity">Botswana</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>23.8066039958409,-22.1812374837323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">PA</SimpleData>
+		<SimpleData name="GMI_CNTRY">PRY</SimpleData>
+		<SimpleData name="ISO_2DIGIT">PY</SimpleData>
+		<SimpleData name="ISO_3DIGIT">PRY</SimpleData>
+		<SimpleData name="CNTRY_NAME">Paraguay</SimpleData>
+		<SimpleData name="LONG_NAME">Paraguay</SimpleData>
+		<SimpleData name="SOVEREIGN">Paraguay</SimpleData>
+		<SimpleData name="POP_CNTRY">4773464</SimpleData>
+		<SimpleData name="CURR_TYPE">Guarani</SimpleData>
+		<SimpleData name="CURR_CODE">PYG</SimpleData>
+		<SimpleData name="LANDLOCKED">Y</SimpleData>
+		<SimpleData name="SQKM">401190.78</SimpleData>
+		<SimpleData name="SQMI">154899.77</SimpleData>
+		<SimpleData name="COLOR_MAP">7</SimpleData>
+		<SimpleData name="Entity">Paraguay</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.3894930396729,-23.2341753374943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">NH</SimpleData>
+		<SimpleData name="GMI_CNTRY">VUT</SimpleData>
+		<SimpleData name="ISO_2DIGIT">VU</SimpleData>
+		<SimpleData name="ISO_3DIGIT">VUT</SimpleData>
+		<SimpleData name="CNTRY_NAME">Vanuatu</SimpleData>
+		<SimpleData name="LONG_NAME">Vanuatu</SimpleData>
+		<SimpleData name="SOVEREIGN">Vanuatu</SimpleData>
+		<SimpleData name="POP_CNTRY">165000</SimpleData>
+		<SimpleData name="CURR_TYPE">Vatu</SimpleData>
+		<SimpleData name="CURR_CODE">VUV</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">8456.53</SimpleData>
+		<SimpleData name="SQMI">3265.07</SimpleData>
+		<SimpleData name="COLOR_MAP">5</SimpleData>
+		<SimpleData name="Entity">Vanuatu</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>167.688247406504,-16.4186036055552</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">MP</SimpleData>
+		<SimpleData name="GMI_CNTRY">MUS</SimpleData>
+		<SimpleData name="ISO_2DIGIT">MU</SimpleData>
+		<SimpleData name="ISO_3DIGIT">MUS</SimpleData>
+		<SimpleData name="CNTRY_NAME">Mauritius</SimpleData>
+		<SimpleData name="LONG_NAME">Mauritius</SimpleData>
+		<SimpleData name="SOVEREIGN">Mauritius</SimpleData>
+		<SimpleData name="POP_CNTRY">1097234</SimpleData>
+		<SimpleData name="CURR_TYPE">Rupee</SimpleData>
+		<SimpleData name="CURR_CODE">MUR</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">1413.31</SimpleData>
+		<SimpleData name="SQMI">545.68</SimpleData>
+		<SimpleData name="COLOR_MAP">7</SimpleData>
+		<SimpleData name="Entity">Mauritius</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>57.5639983762278,-20.2900285750102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">NC</SimpleData>
+		<SimpleData name="GMI_CNTRY">NCL</SimpleData>
+		<SimpleData name="ISO_2DIGIT">NC</SimpleData>
+		<SimpleData name="ISO_3DIGIT">NCL</SimpleData>
+		<SimpleData name="CNTRY_NAME">New Caledonia</SimpleData>
+		<SimpleData name="LONG_NAME">New Caledonia</SimpleData>
+		<SimpleData name="SOVEREIGN">France</SimpleData>
+		<SimpleData name="POP_CNTRY">178000</SimpleData>
+		<SimpleData name="CURR_TYPE">Euro</SimpleData>
+		<SimpleData name="CURR_CODE">EUR</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">17946.31</SimpleData>
+		<SimpleData name="SQMI">6929.07</SimpleData>
+		<SimpleData name="COLOR_MAP">1</SimpleData>
+		<SimpleData name="Entity">New Caledonia</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>165.657735330994,-21.3117212351632</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">RE</SimpleData>
+		<SimpleData name="GMI_CNTRY">REU</SimpleData>
+		<SimpleData name="ISO_2DIGIT">RE</SimpleData>
+		<SimpleData name="ISO_3DIGIT">REU</SimpleData>
+		<SimpleData name="CNTRY_NAME">Reunion</SimpleData>
+		<SimpleData name="LONG_NAME">Reunion</SimpleData>
+		<SimpleData name="SOVEREIGN">France</SimpleData>
+		<SimpleData name="POP_CNTRY">644000</SimpleData>
+		<SimpleData name="CURR_TYPE">Euro</SimpleData>
+		<SimpleData name="CURR_CODE">EUR</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">2230.22</SimpleData>
+		<SimpleData name="SQMI">861.09</SimpleData>
+		<SimpleData name="COLOR_MAP">4</SimpleData>
+		<SimpleData name="Entity">Reunion</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>55.5315999830628,-21.1215251779616</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">TN</SimpleData>
+		<SimpleData name="GMI_CNTRY">TON</SimpleData>
+		<SimpleData name="ISO_2DIGIT">TO</SimpleData>
+		<SimpleData name="ISO_3DIGIT">TON</SimpleData>
+		<SimpleData name="CNTRY_NAME">Tonga</SimpleData>
+		<SimpleData name="LONG_NAME">Tonga</SimpleData>
+		<SimpleData name="SOVEREIGN">Tonga</SimpleData>
+		<SimpleData name="POP_CNTRY">98000</SimpleData>
+		<SimpleData name="CURR_TYPE">Pa'anga</SimpleData>
+		<SimpleData name="CURR_CODE">TOP</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">255.5</SimpleData>
+		<SimpleData name="SQMI">98.65</SimpleData>
+		<SimpleData name="COLOR_MAP">6</SimpleData>
+		<SimpleData name="Entity">Tonga</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-175.178395589193,-21.1599566141764</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">AR</SimpleData>
+		<SimpleData name="GMI_CNTRY">ARG</SimpleData>
+		<SimpleData name="ISO_2DIGIT">AR</SimpleData>
+		<SimpleData name="ISO_3DIGIT">ARG</SimpleData>
+		<SimpleData name="CNTRY_NAME">Argentina</SimpleData>
+		<SimpleData name="LONG_NAME">Argentina</SimpleData>
+		<SimpleData name="SOVEREIGN">Argentina</SimpleData>
+		<SimpleData name="POP_CNTRY">33796870</SimpleData>
+		<SimpleData name="CURR_TYPE">Peso</SimpleData>
+		<SimpleData name="CURR_CODE">ARP</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">2776912.75</SimpleData>
+		<SimpleData name="SQMI">1072166.13</SimpleData>
+		<SimpleData name="COLOR_MAP">8</SimpleData>
+		<SimpleData name="Entity">Argentina</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-65.1830845329875,-35.3968027319497</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">SF</SimpleData>
+		<SimpleData name="GMI_CNTRY">ZAF</SimpleData>
+		<SimpleData name="ISO_2DIGIT">ZA</SimpleData>
+		<SimpleData name="ISO_3DIGIT">ZAF</SimpleData>
+		<SimpleData name="CNTRY_NAME">South Africa</SimpleData>
+		<SimpleData name="LONG_NAME">South Africa</SimpleData>
+		<SimpleData name="SOVEREIGN">South Africa</SimpleData>
+		<SimpleData name="POP_CNTRY">40634126</SimpleData>
+		<SimpleData name="CURR_TYPE">Rand</SimpleData>
+		<SimpleData name="CURR_CODE">ZAR</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">1219930.25</SimpleData>
+		<SimpleData name="SQMI">471014.97</SimpleData>
+		<SimpleData name="COLOR_MAP">7</SimpleData>
+		<SimpleData name="Entity">South Africa</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">3.4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>25.0726872851403,-29.0090243827137</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">AS</SimpleData>
+		<SimpleData name="GMI_CNTRY">AUS</SimpleData>
+		<SimpleData name="ISO_2DIGIT">AU</SimpleData>
+		<SimpleData name="ISO_3DIGIT">AUS</SimpleData>
+		<SimpleData name="CNTRY_NAME">Australia</SimpleData>
+		<SimpleData name="LONG_NAME">Australia</SimpleData>
+		<SimpleData name="SOVEREIGN">Australia</SimpleData>
+		<SimpleData name="POP_CNTRY">17827520</SimpleData>
+		<SimpleData name="CURR_TYPE">Australia Dollar</SimpleData>
+		<SimpleData name="CURR_CODE">AUD</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">7694273</SimpleData>
+		<SimpleData name="SQMI">2970758.75</SimpleData>
+		<SimpleData name="COLOR_MAP">4</SimpleData>
+		<SimpleData name="Entity">Australia</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">2.8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>134.487242283816,-25.7425508029714</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">LT</SimpleData>
+		<SimpleData name="GMI_CNTRY">LSO</SimpleData>
+		<SimpleData name="ISO_2DIGIT">LS</SimpleData>
+		<SimpleData name="ISO_3DIGIT">LSO</SimpleData>
+		<SimpleData name="CNTRY_NAME">Lesotho</SimpleData>
+		<SimpleData name="LONG_NAME">Lesotho</SimpleData>
+		<SimpleData name="SOVEREIGN">Lesotho</SimpleData>
+		<SimpleData name="POP_CNTRY">1928269</SimpleData>
+		<SimpleData name="CURR_TYPE">Maloti</SimpleData>
+		<SimpleData name="CURR_CODE">LSL</SimpleData>
+		<SimpleData name="LANDLOCKED">Y</SimpleData>
+		<SimpleData name="SQKM">30800.45</SimpleData>
+		<SimpleData name="SQMI">11892.05</SimpleData>
+		<SimpleData name="COLOR_MAP">8</SimpleData>
+		<SimpleData name="Entity">Lesotho</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.2227169746787,-29.5831357588603</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">UY</SimpleData>
+		<SimpleData name="GMI_CNTRY">URY</SimpleData>
+		<SimpleData name="ISO_2DIGIT">UY</SimpleData>
+		<SimpleData name="ISO_3DIGIT">URY</SimpleData>
+		<SimpleData name="CNTRY_NAME">Uruguay</SimpleData>
+		<SimpleData name="LONG_NAME">Uruguay</SimpleData>
+		<SimpleData name="SOVEREIGN">Uruguay</SimpleData>
+		<SimpleData name="POP_CNTRY">3084641</SimpleData>
+		<SimpleData name="CURR_TYPE">Peso</SimpleData>
+		<SimpleData name="CURR_CODE">UYU</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">178437.8</SimpleData>
+		<SimpleData name="SQMI">68894.84</SimpleData>
+		<SimpleData name="COLOR_MAP">4</SimpleData>
+		<SimpleData name="Entity">Uruguay</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.0307195200498,-32.7894416079121</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">NZ</SimpleData>
+		<SimpleData name="GMI_CNTRY">NZL</SimpleData>
+		<SimpleData name="ISO_2DIGIT">NZ</SimpleData>
+		<SimpleData name="ISO_3DIGIT">NZL</SimpleData>
+		<SimpleData name="CNTRY_NAME">New Zealand</SimpleData>
+		<SimpleData name="LONG_NAME">New Zealand</SimpleData>
+		<SimpleData name="SOVEREIGN">New Zealand</SimpleData>
+		<SimpleData name="POP_CNTRY">3528197</SimpleData>
+		<SimpleData name="CURR_TYPE">NZ Dollar</SimpleData>
+		<SimpleData name="CURR_CODE">NZD</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">267214.28</SimpleData>
+		<SimpleData name="SQMI">103171.44</SimpleData>
+		<SimpleData name="COLOR_MAP">6</SimpleData>
+		<SimpleData name="Entity">New Zealand</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>171.93777692853,-41.8108378376018</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">CI</SimpleData>
+		<SimpleData name="GMI_CNTRY">CHL</SimpleData>
+		<SimpleData name="ISO_2DIGIT">CL</SimpleData>
+		<SimpleData name="ISO_3DIGIT">CHL</SimpleData>
+		<SimpleData name="CNTRY_NAME">Chile</SimpleData>
+		<SimpleData name="LONG_NAME">Chile</SimpleData>
+		<SimpleData name="SOVEREIGN">Chile</SimpleData>
+		<SimpleData name="POP_CNTRY">13772710</SimpleData>
+		<SimpleData name="CURR_TYPE">Peso</SimpleData>
+		<SimpleData name="CURR_CODE">CLP</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">722510.94</SimpleData>
+		<SimpleData name="SQMI">278961.47</SimpleData>
+		<SimpleData name="COLOR_MAP">3</SimpleData>
+		<SimpleData name="Entity">Chile</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">14.1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.2817522281949,-37.3554457526083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">RO</SimpleData>
+		<SimpleData name="GMI_CNTRY">ROM</SimpleData>
+		<SimpleData name="ISO_2DIGIT">RO</SimpleData>
+		<SimpleData name="ISO_3DIGIT">ROU</SimpleData>
+		<SimpleData name="CNTRY_NAME">Romania</SimpleData>
+		<SimpleData name="LONG_NAME">Romania</SimpleData>
+		<SimpleData name="SOVEREIGN">Romania</SimpleData>
+		<SimpleData name="POP_CNTRY">23540550</SimpleData>
+		<SimpleData name="CURR_TYPE">Leu</SimpleData>
+		<SimpleData name="CURR_CODE">ROL</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">237076.48</SimpleData>
+		<SimpleData name="SQMI">91535.23</SimpleData>
+		<SimpleData name="COLOR_MAP">6</SimpleData>
+		<SimpleData name="Entity">Romania</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.9569849062547,45.8464659367793</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">IT</SimpleData>
+		<SimpleData name="GMI_CNTRY">ITA</SimpleData>
+		<SimpleData name="ISO_2DIGIT">IT</SimpleData>
+		<SimpleData name="ISO_3DIGIT">ITA</SimpleData>
+		<SimpleData name="CNTRY_NAME">Italy</SimpleData>
+		<SimpleData name="LONG_NAME">Italy</SimpleData>
+		<SimpleData name="SOVEREIGN">Italy</SimpleData>
+		<SimpleData name="POP_CNTRY">57908880</SimpleData>
+		<SimpleData name="CURR_TYPE">Euro</SimpleData>
+		<SimpleData name="CURR_CODE">EUR</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">301101.38</SimpleData>
+		<SimpleData name="SQMI">116255.25</SimpleData>
+		<SimpleData name="COLOR_MAP">4</SimpleData>
+		<SimpleData name="Entity">Italy</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">16.1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.1077707573635,42.7834364003461</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">BK</SimpleData>
+		<SimpleData name="GMI_CNTRY">BIH</SimpleData>
+		<SimpleData name="ISO_2DIGIT">BA</SimpleData>
+		<SimpleData name="ISO_3DIGIT">BIH</SimpleData>
+		<SimpleData name="CNTRY_NAME">Bosnia &amp; Herzegovina</SimpleData>
+		<SimpleData name="LONG_NAME">Bosnia and Herzegovina</SimpleData>
+		<SimpleData name="SOVEREIGN">Bosnia &amp; Herzegovina</SimpleData>
+		<SimpleData name="POP_CNTRY">2656240</SimpleData>
+		<SimpleData name="CURR_TYPE">Convertible Mark</SimpleData>
+		<SimpleData name="CURR_CODE">BAK</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">51366.25</SimpleData>
+		<SimpleData name="SQMI">19832.51</SimpleData>
+		<SimpleData name="COLOR_MAP">8</SimpleData>
+		<SimpleData name="Entity">Bosnia and Herzegovina</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>17.7673897764307,44.1729158694563</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">AL</SimpleData>
+		<SimpleData name="GMI_CNTRY">ALB</SimpleData>
+		<SimpleData name="ISO_2DIGIT">AL</SimpleData>
+		<SimpleData name="ISO_3DIGIT">ALB</SimpleData>
+		<SimpleData name="CNTRY_NAME">Albania</SimpleData>
+		<SimpleData name="LONG_NAME">Albania</SimpleData>
+		<SimpleData name="SOVEREIGN">Albania</SimpleData>
+		<SimpleData name="POP_CNTRY">3416945</SimpleData>
+		<SimpleData name="CURR_TYPE">Lek</SimpleData>
+		<SimpleData name="CURR_CODE">ALL</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">28798</SimpleData>
+		<SimpleData name="SQMI">11118.91</SimpleData>
+		<SimpleData name="COLOR_MAP">6</SimpleData>
+		<SimpleData name="Entity">Albania</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>20.0653653372307,41.1515134907334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">MU</SimpleData>
+		<SimpleData name="GMI_CNTRY">OMN</SimpleData>
+		<SimpleData name="ISO_2DIGIT">OM</SimpleData>
+		<SimpleData name="ISO_3DIGIT">OMN</SimpleData>
+		<SimpleData name="CNTRY_NAME">Oman</SimpleData>
+		<SimpleData name="LONG_NAME">Oman</SimpleData>
+		<SimpleData name="SOVEREIGN">Oman</SimpleData>
+		<SimpleData name="POP_CNTRY">2090308</SimpleData>
+		<SimpleData name="CURR_TYPE">Rial</SimpleData>
+		<SimpleData name="CURR_CODE">OMR</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">310328.06</SimpleData>
+		<SimpleData name="SQMI">119817.68</SimpleData>
+		<SimpleData name="COLOR_MAP">7</SimpleData>
+		<SimpleData name="Entity">Oman</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>56.1153934119951,20.6155322879527</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">YM</SimpleData>
+		<SimpleData name="GMI_CNTRY">YEM</SimpleData>
+		<SimpleData name="ISO_2DIGIT">YE</SimpleData>
+		<SimpleData name="ISO_3DIGIT">YEM</SimpleData>
+		<SimpleData name="CNTRY_NAME">Yemen</SimpleData>
+		<SimpleData name="LONG_NAME">Yemen</SimpleData>
+		<SimpleData name="SOVEREIGN">Yemen</SimpleData>
+		<SimpleData name="POP_CNTRY">15351120</SimpleData>
+		<SimpleData name="CURR_TYPE">Riyal</SimpleData>
+		<SimpleData name="CURR_CODE">YER</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">455125.97</SimpleData>
+		<SimpleData name="SQMI">175724.16</SimpleData>
+		<SimpleData name="COLOR_MAP">2</SimpleData>
+		<SimpleData name="Entity">Yemen</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.5957467968637,15.9043273414127</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">ER</SimpleData>
+		<SimpleData name="GMI_CNTRY">ERI</SimpleData>
+		<SimpleData name="ISO_2DIGIT">ER</SimpleData>
+		<SimpleData name="ISO_3DIGIT">ERI</SimpleData>
+		<SimpleData name="CNTRY_NAME">Eritrea</SimpleData>
+		<SimpleData name="LONG_NAME">Eritrea</SimpleData>
+		<SimpleData name="SOVEREIGN">Eritrea</SimpleData>
+		<SimpleData name="POP_CNTRY">3662271</SimpleData>
+		<SimpleData name="CURR_TYPE">Birr</SimpleData>
+		<SimpleData name="CURR_CODE">ETB</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">119905.37</SimpleData>
+		<SimpleData name="SQMI">46295.48</SimpleData>
+		<SimpleData name="COLOR_MAP">8</SimpleData>
+		<SimpleData name="Entity">Eritrea</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.8373261565099,15.3440763472592</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ls_deaths_1990">
+		<SimpleData name="FIPS_CNTRY">SA</SimpleData>
+		<SimpleData name="GMI_CNTRY">SAU</SimpleData>
+		<SimpleData name="ISO_2DIGIT">SA</SimpleData>
+		<SimpleData name="ISO_3DIGIT">SAU</SimpleData>
+		<SimpleData name="CNTRY_NAME">Saudi Arabia</SimpleData>
+		<SimpleData name="LONG_NAME">Saudi Arabia</SimpleData>
+		<SimpleData name="SOVEREIGN">Saudi Arabia</SimpleData>
+		<SimpleData name="POP_CNTRY">18099990</SimpleData>
+		<SimpleData name="CURR_TYPE">Riyal</SimpleData>
+		<SimpleData name="CURR_CODE">SAR</SimpleData>
+		<SimpleData name="LANDLOCKED">N</SimpleData>
+		<SimpleData name="SQKM">1936712.75</SimpleData>
+		<SimpleData name="SQMI">747764.88</SimpleData>
+		<SimpleData name="COLOR_MAP">3</SimpleData>
+		<SimpleData name="Entity">Saudi Arabia</SimpleData>
+		<SimpleData name="Year">1990</SimpleData>
+		<SimpleData name="deaths">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>44.5431013913902,24.1303677063816</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
