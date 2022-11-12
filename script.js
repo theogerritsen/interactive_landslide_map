@@ -14,7 +14,7 @@ function openLegends() {
     document.querySelector("#legends").classList.toggle("active");
 }
 // ajout des variables
-var map, layerSwitcher, overlays, styleFunction;
+var map, overlays, styleFunction;
 
 
 // clé pour mapbox tile
@@ -143,7 +143,7 @@ overlays = new ol.layer.Group({
 map = new ol.Map({
     target: 'map',
     view: view,
-    controls: ol.control.defaults({attribution: false}).extend([attribution])
+    controls: ol.control.defaults.defaults({attribution: false}).extend([attribution])
 });
 
 // Ajout du fond de carte et des overlays
@@ -169,10 +169,10 @@ map.addControl(zoom);
 var slider = new ol.control.ZoomSlider();
 map.addControl(slider);
 
-var layerSwitcher = new ol.control.LayerSwitcher({
-    activationMode: 'click',
-});
-map.addControl(layerSwitcher);
+// let layerSwitcher = new ol.control.LayerSwitcher({
+//     activationMode: 'click',
+// });
+// map.addControl(layerSwitcher);
 
 ////////////////////////////////////
 ////// SLIDER TEMPOREL ///////////////
