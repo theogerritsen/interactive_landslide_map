@@ -23,9 +23,8 @@ de la fenêtre */
     z-index: 1;
     color: #2e2e2e;
     left: 50vw;
-    top: 50vh;
+    top: 20px;
     margin-left: -25vw;
-    margin-top: -25vh;
     border-radius: 30px;
     padding: 30px;
 }
